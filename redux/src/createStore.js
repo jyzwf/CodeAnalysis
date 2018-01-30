@@ -113,18 +113,18 @@ export default function createStore(reducer, preloadedState, enhancer) {
      * Adds a change listener.It will be called any time an action is dispatched,
      * and some part of the state tree may poteneially have change.You may then call `getState` to 
      * read the current state tree inside the callback
-     * 添加一个改变监听器。任何时候，当一个 action dispatch的时候都会被调用，
-     * 并且状态树的某些部分可能会改变。你可以在回掉函数中来用 getstate 读取目前的 state
+     * 添加一个监听器。当一个 action 被 dispatch 的时候会被调用，
+     * 并且状态树的某些部分可能会改变。你可以调用 getstate 读取目前的 state
      * 
      * You may call `dispatch` from a change listener,with the following caveats:
-     * 你可以在 listener 改变时调用 dispatch ,要注意：
+     * 在 listener 里面调用 dispatch ,要注意：
      * 
      * 1. The subscriptions are snapshotted just before every `dispatch()` call.
      * If you subscribe or unsubscribe while the listeners are being invoked,
      * this will not have any effect on the `dispatch()` that is currently in progress. 
      * However, the next `dispatch()` recent snapshot of the subscription list.
-     * 1.在每个`dispatch（）`调用之前，订阅都是快照。
-     * 如果在调用监听器时订阅或取消订阅，那么这不会对当前正在进行的`dispatch（）'有任何影响。
+     * 1.在每个`dispatch（）`调用之前，订阅者都是快照。
+     * 如果在调用 listener 时订阅或取消订阅，那么这不会对当前正在进行的`dispatch（）'有任何影响。
      *  但是，下一个`dispatch（）`订阅列表的最新快照。
      * 
      * 2. The listener should not expect to see all state changes, 
@@ -133,8 +133,8 @@ export default function createStore(reducer, preloadedState, enhancer) {
      * guaranteed that all subscribers registered before the `dispatch()` started 
      * will be called with the latest state by the time it exits.
      * 
-     * 2.侦听器不应该期望看到所有的状态更改，
-     * 因为状态可能在调用侦听器之前在嵌套的`dispatch（）'期间被多次更新。 
+     * 2.listener不应该期望看到所有的状态更改，
+     * 因为状态可能在调用 listener 之前在嵌套的`dispatch（）'期间被多次更新。 
      * 但是，保证在“dispatch（）”开始前注册的所有用户将在退出时以最新状态调用。
      * 
      * @param {Function} listener A callback to be invoked on every dispatch.

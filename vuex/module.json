@@ -1,0 +1,10 @@
+
+
+{   
+    ...根module.state,
+    moduleA:{
+        ...moduleA.state,
+        moduleC:moduleC.state
+    },
+    moduleB:moduleB.state
+}

@@ -18,27 +18,30 @@ import compose from './compose'
 
 
 export default function applyMiddleware(...middlewares) {
-  return createStore => (reducer, preloadedState, enhancer) => {
+  return createStore => (...args) => {
     // 获取原始的 store，不过这里的enhancer，在createStore里面不会传入，
     // return enhancer(createStore)(reducer, preloadedState)
     // 所以如果preloadedState是函数的时候，才会变成 enhancer
     // 所以这里可以有一连串的加强 enhancer
-    const store = createStore(reducer, preloadedState, enhancer)
+    const store = createStore(...args)
     // 获取dispatch 的原始引用
-    let dispatch = store.dispatch
-    // 保存中间件返回结果的函数
-    let chain = []
+    let dispatch = () => {
+      throw new Error(
+        `Dispatching while constructing your middleware is not allowed. ` +
+        `Other middleware would not be applied to this dispatch.`
+      )
+    }
 
     // 可以供中间件使用的 store 里的几个变量
     const middlewareAPI = {
       getState: store.getState,
       // 这里为什么是dispatch 而不是 store.dispatch呢？
       // 这是因为现在的 dispatch 是store.dispatch 的引用，而后面他会被中间件改造，变成新的 dispatch ,否则只能是store.dispatch
-      dispatch: action => dispatch(action)
+      dispatch: (...args) => dispatch(...args)
     }
 
     // 注册中间件调用链
-    chain = middlewares.map(middleware => middleware(middlewareAPI)) // 调用中间件并返回结果
+    const chain = middlewares.map(middleware => middleware(middlewareAPI)) // 调用中间件并返回结果
 
     // 传入dispatch供各个中间件使用，这里会有一连串的函数组合，最后一个函数先执行，然后依次项前一项执行，所以要考虑中间件的顺序 返回加强后的dispatch
     dispatch = compose(...chain)(store.dispatch)

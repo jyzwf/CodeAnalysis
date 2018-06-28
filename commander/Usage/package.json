@@ -1,0 +1,17 @@
+{
+  "name": "usage",
+  "version": "1.0.0",
+  "description": "commander.js 的使用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "commander.js"
+  ],
+  "author": "echo",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.15.1"
+  }
+}

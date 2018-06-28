@@ -1,0 +1,785 @@
+{
+    "code": "200",
+    "data": {
+        "labelList": [
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "code": "admittance",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "准入车辆数",
+                        "reactType": "range",
+                        "valueType": "number"
+                    },
+                    {
+                        "children": [],
+                        "code": "grounding",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "上架金融方案数",
+                        "reactType": "range",
+                        "valueType": "number"
+                    },
+                    {
+                        "children": [],
+                        "code": "financial_plan_setting_rate",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "金融方案设置率",
+                        "reactType": "range",
+                        "valueType": "rate"
+                    },
+                    {
+                        "children": [],
+                        "code": "customer_drainage_score",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "C端引流权重",
+                        "reactType": "range",
+                        "valueType": "number"
+                    },
+                    {
+                        "children": [],
+                        "code": "tool_second_30_cn",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "近30天销量",
+                        "reactType": "range",
+                        "valueType": "number"
+                    },
+                    {
+                        "children": [],
+                        "code": "tool_second_1_cn",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "昨日销量",
+                        "reactType": "range",
+                        "valueType": "number"
+                    },
+                    {
+                        "children": [],
+                        "code": "admittance_rate",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "准入车辆占比",
+                        "reactType": "range",
+                        "valueType": "rate"
+                    },
+                    {
+                        "children": [],
+                        "code": "tool_second_cn",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "历史累计销量",
+                        "reactType": "range",
+                        "valueType": "number"
+                    }
+                ],
+                "code": "CT_GJH_OLD_CAR",
+                "mapDetails": {},
+                "mapEnum": {},
+                "name": "工具化二手车",
+                "reactType": "",
+                "valueType": ""
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "code": "self_second_30_cn",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "近30天销量",
+                        "reactType": "range",
+                        "valueType": "number"
+                    },
+                    {
+                        "children": [],
+                        "code": "self_second_1_cn",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "昨日销量",
+                        "reactType": "range",
+                        "valueType": "number"
+                    },
+                    {
+                        "children": [],
+                        "code": "self_second_cn",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "历史累计销量",
+                        "reactType": "range",
+                        "valueType": "number"
+                    }
+                ],
+                "code": "CT_ZT_GUANFANG_CAR",
+                "mapDetails": {},
+                "mapEnum": {},
+                "name": "官方二手车",
+                "reactType": "",
+                "valueType": ""
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "code": "tool_new_30_cn",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "近30天销量",
+                        "reactType": "range",
+                        "valueType": "number"
+                    },
+                    {
+                        "children": [],
+                        "code": "tool_new_1_cn",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "昨日销量",
+                        "reactType": "range",
+                        "valueType": "number"
+                    },
+                    {
+                        "children": [],
+                        "code": "tool_new_cn",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "历史累计销量",
+                        "reactType": "range",
+                        "valueType": "number"
+                    }
+                ],
+                "code": "CT_GJH_NEW_CAR",
+                "mapDetails": {},
+                "mapEnum": {},
+                "name": "工具化新车",
+                "reactType": "",
+                "valueType": ""
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "code": "follow_rate_5",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "近7天线上线索5分钟跟进率",
+                        "reactType": "range",
+                        "valueType": "rate"
+                    },
+                    {
+                        "children": [],
+                        "code": "follow_rate_120",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "近7天线上线索2小时跟进率",
+                        "reactType": "range",
+                        "valueType": "rate"
+                    },
+                    {
+                        "children": [],
+                        "code": "online_7",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "近7天线上线索总数",
+                        "reactType": "range",
+                        "valueType": "number"
+                    },
+                    {
+                        "children": [],
+                        "code": "online_rate_7",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "近7天线上线索占比",
+                        "reactType": "range",
+                        "valueType": "rate"
+                    },
+                    {
+                        "children": [],
+                        "code": "clue_conversion_rate_30",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "近30天线上线索转化率",
+                        "reactType": "range",
+                        "valueType": "rate"
+                    },
+                    {
+                        "children": [],
+                        "code": "tm_access_pass_30",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "近30天天猫授信通过用户数",
+                        "reactType": "range",
+                        "valueType": "number"
+                    },
+                    {
+                        "children": [],
+                        "code": "tm_access_pass_7",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "近7天天猫授信通过用户数",
+                        "reactType": "range",
+                        "valueType": "number"
+                    }
+                ],
+                "code": "CT_CLUE",
+                "mapDetails": {},
+                "mapEnum": {},
+                "name": "线索相关",
+                "reactType": "",
+                "valueType": ""
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "code": "open_tgc",
+                        "mapDetails": {},
+                        "mapEnum": {
+                            "0": "未开通",
+                            "1": "开通"
+                        },
+                        "name": "是否开通弹个车",
+                        "reactType": "radio",
+                        "valueType": "enum"
+                    },
+                    {
+                        "children": [],
+                        "code": "protect_distance",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "区域保护权",
+                        "reactType": "range",
+                        "valueType": "number"
+                    },
+                    {
+                        "children": [],
+                        "code": "is_promote",
+                        "mapDetails": {},
+                        "mapEnum": {
+                            "0": "否",
+                            "1": "是"
+                        },
+                        "name": "是否已展业",
+                        "reactType": "radio",
+                        "valueType": "enum"
+                    },
+                    {
+                        "children": [],
+                        "code": "is_flow",
+                        "mapDetails": {},
+                        "mapEnum": {
+                            "0": "否",
+                            "1": "是"
+                        },
+                        "name": "是否有引流权",
+                        "reactType": "radio",
+                        "valueType": "enum"
+                    },
+                    {
+                        "children": [],
+                        "code": "shop_tag",
+                        "mapDetails": {},
+                        "mapEnum": {
+                            "TGC_EXPER": "弹个车体验店",
+                            "BACK_SHOP": "退车网点",
+                            "TGC_SELF_SECOND": "再弹二手车",
+                            "TGC_TOOL_NEW": "工具化新车",
+                            "SAAS_TOP": "全流程",
+                            "SALE_SHOP": "门店仓",
+                            "TGC_DG": "弹个车导购站",
+                            "TGC_MODEL": "弹个车品牌形象店",
+                            "RECIVE_SHOP": "接车商",
+                            "TGC_LEASE": "弹个车经销商",
+                            "TGC_TOOL_SECOND": "工具化二手车"
+                        },
+                        "name": "车商标签",
+                        "reactType": "checkbox",
+                        "valueType": "enum"
+                    },
+                    {
+                        "children": [],
+                        "code": "tgc_business",
+                        "mapDetails": {},
+                        "mapEnum": {
+                            "TGC_SELF_SECOND": "官方二手车",
+                            "TGC_TOOL_NEW": "工具化新车",
+                            "TGC_TOOL_SECOND": "工具化二手车"
+                        },
+                        "name": "已开通业务类型",
+                        "reactType": "radio",
+                        "valueType": "enum"
+                    }
+                ],
+                "code": "CT_BASIC",
+                "mapDetails": {},
+                "mapEnum": {},
+                "name": "弹个车基本情况",
+                "reactType": "",
+                "valueType": ""
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "code": "province_code",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "省份",
+                        "reactType": "transfer",
+                        "valueType": "area_province"
+                    },
+                    {
+                        "children": [],
+                        "code": "city_code",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "城市",
+                        "reactType": "transfer",
+                        "valueType": "area_city"
+                    },
+                    {
+                        "children": [],
+                        "code": "shop_type",
+                        "mapDetails": {},
+                        "mapEnum": {
+                            "1": "小型车商",
+                            "2": "4S店",
+                            "3": "新车二网",
+                            "4": "中大型车商"
+                        },
+                        "name": "车商类型",
+                        "reactType": "checkbox",
+                        "valueType": "enum"
+                    },
+                    {
+                        "children": [],
+                        "code": "exhib_area",
+                        "mapDetails": {},
+                        "mapEnum": {
+                            "1": "无展厅",
+                            "2": "<100",
+                            "3": "100-200",
+                            "4": "200-300",
+                            "5": "300-500",
+                            "6": "500-1000",
+                            "7": "1000-3000",
+                            "8": ">3000"
+                        },
+                        "name": "展厅面积",
+                        "reactType": "checkbox",
+                        "valueType": "enum"
+                    },
+                    {
+                        "children": [],
+                        "code": "fitment",
+                        "mapDetails": {},
+                        "mapEnum": {
+                            "豪华": "豪华",
+                            "非豪华": "非豪华"
+                        },
+                        "name": "展厅豪华度",
+                        "reactType": "radio",
+                        "valueType": "enum"
+                    },
+                    {
+                        "children": [],
+                        "code": "grade",
+                        "mapDetails": {},
+                        "mapEnum": {
+                            "C0-": "C0-",
+                            "d1-": "d1-",
+                            "a4+": "a4+",
+                            "b2+": "b2+",
+                            "B3+": "B3+",
+                            "A1+": "A1+",
+                            "a4-": "a4-",
+                            "c4+": "c4+",
+                            "b2-": "b2-",
+                            "B3-": "B3-",
+                            "C1+": "C1+",
+                            "d2+": "d2+",
+                            "a0+": "a0+",
+                            "A1-": "A1-",
+                            "c4-": "c4-",
+                            "D3+": "D3+",
+                            "C1-": "C1-",
+                            "d2-": "d2-",
+                            "a0-": "a0-",
+                            "c0+": "c0+",
+                            "D3-": "D3-",
+                            "c0-": "c0-",
+                            "B4+": "B4+",
+                            "a1+": "a1+",
+                            "A2+": "A2+",
+                            "D4+": "D4+",
+                            "b3+": "b3+",
+                            "B4-": "B4-",
+                            "a1-": "a1-",
+                            "A2-": "A2-",
+                            "c1+": "c1+",
+                            "D4-": "D4-",
+                            "B0+": "B0+",
+                            "b3-": "b3-",
+                            "C2+": "C2+",
+                            "d3+": "d3+",
+                            "c1-": "c1-",
+                            "D0+": "D0+",
+                            "B0-": "B0-",
+                            "C2-": "C2-",
+                            "d3-": "d3-",
+                            "D0-": "D0-",
+                            "b4+": "b4+",
+                            "A3+": "A3+",
+                            "b4-": "b4-",
+                            "C3+": "C3+",
+                            "d4+": "d4+",
+                            "a2+": "a2+",
+                            "A3-": "A3-",
+                            "b0+": "b0+",
+                            "B1+": "B1+",
+                            "C3-": "C3-",
+                            "d4-": "d4-",
+                            "a2-": "a2-",
+                            "c2+": "c2+",
+                            "b0-": "b0-",
+                            "B1-": "B1-",
+                            "d0+": "d0+",
+                            "c2-": "c2-",
+                            "D1+": "D1+",
+                            "d0-": "d0-",
+                            "D1-": "D1-",
+                            "a3+": "a3+",
+                            "A4+": "A4+",
+                            "a3-": "a3-",
+                            "A4-": "A4-",
+                            "c3+": "c3+",
+                            "B2+": "B2+",
+                            "C4+": "C4+",
+                            "A0+": "A0+",
+                            "c3-": "c3-",
+                            "D2+": "D2+",
+                            "b1+": "b1+",
+                            "B2-": "B2-",
+                            "C4-": "C4-",
+                            "A0-": "A0-",
+                            "D2-": "D2-",
+                            "b1-": "b1-",
+                            "C0+": "C0+",
+                            "d1+": "d1+"
+                        },
+                        "name": "车商等级",
+                        "reactType": "cascader",
+                        "valueType": "enum"
+                    },
+                    {
+                        "children": [],
+                        "code": "price_interval",
+                        "mapDetails": {},
+                        "mapEnum": {
+                            "1": "<5w",
+                            "2": "5-10w",
+                            "3": "10-15w",
+                            "4": "15-20w",
+                            "5": "20-30w",
+                            "6": "30-50w",
+                            "7": "50-100w",
+                            "8": ">100w"
+                        },
+                        "name": "主营车型价格",
+                        "reactType": "checkbox",
+                        "valueType": "enum"
+                    },
+                    {
+                        "children": [],
+                        "code": "categories",
+                        "mapDetails": {},
+                        "mapEnum": {
+                            "1": "国产",
+                            "2": "进口",
+                            "3": "平行进口"
+                        },
+                        "name": "主营品牌类型",
+                        "reactType": "checkbox",
+                        "valueType": "enum"
+                    },
+                    {
+                        "children": [],
+                        "code": "salesman_num",
+                        "mapDetails": {},
+                        "mapEnum": {
+                            "1": "<2",
+                            "2": "3-5",
+                            "3": "6-10",
+                            "4": "11-20",
+                            "5": ">21"
+                        },
+                        "name": "销售人数",
+                        "reactType": "checkbox",
+                        "valueType": "enum"
+                    },
+                    {
+                        "children": [],
+                        "code": "shop_num",
+                        "mapDetails": {},
+                        "mapEnum": {
+                            "1": "小于2个",
+                            "2": "3-5个",
+                            "3": "大于5个"
+                        },
+                        "name": "门店数量",
+                        "reactType": "checkbox",
+                        "valueType": "enum"
+                    },
+                    {
+                        "children": [],
+                        "code": "storage_num",
+                        "mapDetails": {},
+                        "mapEnum": {
+                            "1": "小于5个",
+                            "2": "6-10个",
+                            "3": "11-20个",
+                            "4": "21-50个",
+                            "5": "51-100个",
+                            "6": "大于100个"
+                        },
+                        "name": "库位数量",
+                        "reactType": "checkbox",
+                        "valueType": "enum"
+                    },
+                    {
+                        "children": [],
+                        "code": "property",
+                        "mapDetails": {},
+                        "mapEnum": {
+                            "1": "上游",
+                            "2": "下游",
+                            "3": "上下游"
+                        },
+                        "name": "公司属性",
+                        "reactType": "checkbox",
+                        "valueType": "enum"
+                    },
+                    {
+                        "children": [],
+                        "code": "is_second_hand",
+                        "mapDetails": {},
+                        "mapEnum": {
+                            "0": "否",
+                            "1": "是"
+                        },
+                        "name": "自营二手车零售",
+                        "reactType": "checkbox",
+                        "valueType": "enum"
+                    },
+                    {
+                        "children": [],
+                        "code": "full_payment",
+                        "mapDetails": {},
+                        "mapEnum": {
+                            "0": "否",
+                            "1": "是"
+                        },
+                        "name": "全款压车",
+                        "reactType": "checkbox",
+                        "valueType": "enum"
+                    },
+                    {
+                        "children": [],
+                        "code": "marketing_type",
+                        "mapDetails": {},
+                        "mapEnum": {
+                            "1": "熟客转介绍",
+                            "2": "线上平台投放引流",
+                            "3": "线下宣传",
+                            "4": "电话外呼营销",
+                            "5": "微信朋友圈营销",
+                            "6": "电台"
+                        },
+                        "name": "主要营销方式",
+                        "reactType": "checkbox",
+                        "valueType": "enum"
+                    },
+                    {
+                        "children": [],
+                        "code": "wholesale",
+                        "mapDetails": {},
+                        "mapEnum": {
+                            "0": "否",
+                            "1": "是"
+                        },
+                        "name": "批发业务",
+                        "reactType": "checkbox",
+                        "valueType": "enum"
+                    },
+                    {
+                        "children": [],
+                        "code": "month_sales",
+                        "mapDetails": {},
+                        "mapEnum": {
+                            "1": "<10",
+                            "2": "11-30",
+                            "3": "31-50",
+                            "4": "51-100",
+                            "5": ">100"
+                        },
+                        "name": "月均销量",
+                        "reactType": "checkbox",
+                        "valueType": "enum"
+                    }
+                ],
+                "code": "CB_BASIC",
+                "mapDetails": {},
+                "mapEnum": {},
+                "name": "基础情况",
+                "reactType": "",
+                "valueType": ""
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "code": "stages_transformation_ability",
+                        "mapDetails": {},
+                        "mapEnum": {
+                            "高": "高",
+                            "中": "中",
+                            "低": "低"
+                        },
+                        "name": "分期转化能力",
+                        "reactType": "checkbox",
+                        "valueType": "enum"
+                    }
+                ],
+                "code": "CT_ZHUHOU",
+                "mapDetails": {},
+                "mapEnum": {},
+                "name": "租后",
+                "reactType": "",
+                "valueType": ""
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "code": "purcharse_new_30_cn",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "近30天销量",
+                        "reactType": "range",
+                        "valueType": "number"
+                    },
+                    {
+                        "children": [],
+                        "code": "purcharse_new_1_cn",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "昨日销量",
+                        "reactType": "range",
+                        "valueType": "number"
+                    },
+                    {
+                        "children": [],
+                        "code": "purcharse_new_cn",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "历史累计销量",
+                        "reactType": "range",
+                        "valueType": "number"
+                    }
+                ],
+                "code": "CT_JC_NEW_CAR",
+                "mapDetails": {},
+                "mapEnum": {},
+                "name": "集采新车",
+                "reactType": "",
+                "valueType": ""
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "code": "use_saas",
+                        "mapDetails": {},
+                        "mapEnum": {
+                            "0": "否",
+                            "1": "是"
+                        },
+                        "name": "是否使用SAAS",
+                        "reactType": "radio",
+                        "valueType": "enum"
+                    },
+                    {
+                        "children": [],
+                        "code": "is_saas_top",
+                        "mapDetails": {},
+                        "mapEnum": {
+                            "0": "否",
+                            "1": "是"
+                        },
+                        "name": "是否为全流程车商",
+                        "reactType": "radio",
+                        "valueType": "enum"
+                    },
+                    {
+                        "children": [],
+                        "code": "crm_input_customer_sd_count",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "近7天主动录入客户数",
+                        "reactType": "range",
+                        "valueType": "number"
+                    },
+                    {
+                        "children": [],
+                        "code": "erp_evaluation_car_count",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "近7天评估量",
+                        "reactType": "range",
+                        "valueType": "number"
+                    },
+                    {
+                        "children": [],
+                        "code": "erp_publish_car_count",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "近7天发车量",
+                        "reactType": "range",
+                        "valueType": "number"
+                    },
+                    {
+                        "children": [],
+                        "code": "erp_deal_car_count",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "近7天成交量",
+                        "reactType": "range",
+                        "valueType": "number"
+                    },
+                    {
+                        "children": [],
+                        "code": "share_sum",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "近7天分享数",
+                        "reactType": "range",
+                        "valueType": "number"
+                    }
+                ],
+                "code": "CS_BASIC",
+                "mapDetails": {},
+                "mapEnum": {},
+                "name": "SAAS基本情况",
+                "reactType": "",
+                "valueType": ""
+            }
+        ],
+        "trackHost": "http://datacenter-log-center.dasouche-inc.net"
+    },
+    "msg": "success",
+    "success": true,
+    "traceId": "qOH1gk"
+}

@@ -1,0 +1,1979 @@
+{
+    "code": "200",
+    "data": {
+        "curPickedTagValue": [],
+        "labelList": [
+            {
+                "code": "CT_GJH_OLD_CAR",
+                "children": [
+                    {
+                        "code": "admittance",
+                        "children": [],
+                        "mapEnum": {},
+                        "valueType": "number",
+                        "name": "准入车辆数",
+                        "mapDetails": {},
+                        "reactType": "range"
+                    },
+                    {
+                        "code": "grounding",
+                        "children": [],
+                        "mapEnum": {},
+                        "valueType": "number",
+                        "name": "上架金融方案数",
+                        "mapDetails": {},
+                        "reactType": "range"
+                    },
+                    {
+                        "code": "financial_plan_setting_rate",
+                        "children": [],
+                        "mapEnum": {},
+                        "valueType": "rate",
+                        "name": "金融方案设置率",
+                        "mapDetails": {},
+                        "reactType": "range"
+                    },
+                    {
+                        "code": "customer_drainage_score",
+                        "children": [],
+                        "mapEnum": {},
+                        "valueType": "number",
+                        "name": "C端引流权重",
+                        "mapDetails": {},
+                        "reactType": "range"
+                    },
+                    {
+                        "code": "tool_second_30_cn",
+                        "children": [],
+                        "mapEnum": {},
+                        "valueType": "number",
+                        "name": "近30天销量",
+                        "mapDetails": {},
+                        "reactType": "range"
+                    },
+                    {
+                        "code": "tool_second_1_cn",
+                        "children": [],
+                        "mapEnum": {},
+                        "valueType": "number",
+                        "name": "昨日销量",
+                        "mapDetails": {},
+                        "reactType": "range"
+                    },
+                    {
+                        "code": "admittance_rate",
+                        "children": [],
+                        "mapEnum": {},
+                        "valueType": "rate",
+                        "name": "准入车辆占比",
+                        "mapDetails": {},
+                        "reactType": "range"
+                    },
+                    {
+                        "code": "tool_second_cn",
+                        "children": [],
+                        "mapEnum": {},
+                        "valueType": "number",
+                        "name": "历史累计销量",
+                        "mapDetails": {},
+                        "reactType": "range"
+                    }
+                ],
+                "mapEnum": {},
+                "valueType": "",
+                "name": "工具化二手车",
+                "mapDetails": {},
+                "reactType": ""
+            },
+            {
+                "code": "CT_ZT_GUANFANG_CAR",
+                "children": [
+                    {
+                        "code": "self_second_30_cn",
+                        "children": [],
+                        "mapEnum": {},
+                        "valueType": "number",
+                        "name": "近30天销量",
+                        "mapDetails": {},
+                        "reactType": "range"
+                    },
+                    {
+                        "code": "self_second_1_cn",
+                        "children": [],
+                        "mapEnum": {},
+                        "valueType": "number",
+                        "name": "昨日销量",
+                        "mapDetails": {},
+                        "reactType": "range"
+                    },
+                    {
+                        "code": "self_second_cn",
+                        "children": [],
+                        "mapEnum": {},
+                        "valueType": "number",
+                        "name": "历史累计销量",
+                        "mapDetails": {},
+                        "reactType": "range"
+                    }
+                ],
+                "mapEnum": {},
+                "valueType": "",
+                "name": "官方二手车",
+                "mapDetails": {},
+                "reactType": ""
+            },
+            {
+                "code": "CT_GJH_NEW_CAR",
+                "children": [
+                    {
+                        "code": "tool_new_30_cn",
+                        "children": [],
+                        "mapEnum": {},
+                        "valueType": "number",
+                        "name": "近30天销量",
+                        "mapDetails": {},
+                        "reactType": "range"
+                    },
+                    {
+                        "code": "tool_new_1_cn",
+                        "children": [],
+                        "mapEnum": {},
+                        "valueType": "number",
+                        "name": "昨日销量",
+                        "mapDetails": {},
+                        "reactType": "range"
+                    },
+                    {
+                        "code": "tool_new_cn",
+                        "children": [],
+                        "mapEnum": {},
+                        "valueType": "number",
+                        "name": "历史累计销量",
+                        "mapDetails": {},
+                        "reactType": "range"
+                    }
+                ],
+                "mapEnum": {},
+                "valueType": "",
+                "name": "工具化新车",
+                "mapDetails": {},
+                "reactType": ""
+            },
+            {
+                "code": "CT_CLUE",
+                "children": [
+                    {
+                        "code": "follow_rate_5",
+                        "children": [],
+                        "mapEnum": {},
+                        "valueType": "rate",
+                        "name": "近7天线上线索5分钟跟进率",
+                        "mapDetails": {},
+                        "reactType": "range"
+                    },
+                    {
+                        "code": "follow_rate_120",
+                        "children": [],
+                        "mapEnum": {},
+                        "valueType": "rate",
+                        "name": "近7天线上线索2小时跟进率",
+                        "mapDetails": {},
+                        "reactType": "range"
+                    },
+                    {
+                        "code": "online_7",
+                        "children": [],
+                        "mapEnum": {},
+                        "valueType": "number",
+                        "name": "近7天线上线索总数",
+                        "mapDetails": {},
+                        "reactType": "range"
+                    },
+                    {
+                        "code": "online_rate_7",
+                        "children": [],
+                        "mapEnum": {},
+                        "valueType": "rate",
+                        "name": "近7天线上线索占比",
+                        "mapDetails": {},
+                        "reactType": "range"
+                    },
+                    {
+                        "code": "clue_conversion_rate_30",
+                        "children": [],
+                        "mapEnum": {},
+                        "valueType": "rate",
+                        "name": "近30天线上线索转化率",
+                        "mapDetails": {},
+                        "reactType": "range"
+                    },
+                    {
+                        "code": "tm_access_pass_30",
+                        "children": [],
+                        "mapEnum": {},
+                        "valueType": "number",
+                        "name": "近30天天猫授信通过用户数",
+                        "mapDetails": {},
+                        "reactType": "range"
+                    },
+                    {
+                        "code": "tm_access_pass_7",
+                        "children": [],
+                        "mapEnum": {},
+                        "valueType": "number",
+                        "name": "近7天天猫授信通过用户数",
+                        "mapDetails": {},
+                        "reactType": "range"
+                    }
+                ],
+                "mapEnum": {},
+                "valueType": "",
+                "name": "线索相关",
+                "mapDetails": {},
+                "reactType": ""
+            },
+            {
+                "code": "CT_BASIC",
+                "children": [
+                    {
+                        "code": "open_tgc",
+                        "children": [],
+                        "mapEnum": {
+                            "0": "未开通",
+                            "1": "开通"
+                        },
+                        "valueType": "enum",
+                        "name": "是否开通弹个车",
+                        "mapDetails": {},
+                        "reactType": "radio"
+                    },
+                    {
+                        "code": "protect_distance",
+                        "children": [],
+                        "mapEnum": {},
+                        "valueType": "number",
+                        "name": "区域保护权",
+                        "mapDetails": {},
+                        "reactType": "range"
+                    },
+                    {
+                        "code": "is_promote",
+                        "children": [],
+                        "mapEnum": {
+                            "0": "否",
+                            "1": "是"
+                        },
+                        "valueType": "enum",
+                        "name": "是否已展业",
+                        "mapDetails": {},
+                        "reactType": "radio"
+                    },
+                    {
+                        "code": "is_flow",
+                        "children": [],
+                        "mapEnum": {
+                            "0": "否",
+                            "1": "是"
+                        },
+                        "valueType": "enum",
+                        "name": "是否有引流权",
+                        "mapDetails": {},
+                        "reactType": "radio"
+                    },
+                    {
+                        "code": "shop_tag",
+                        "children": [],
+                        "mapEnum": {
+                            "TGC_EXPER": "弹个车体验店",
+                            "BACK_SHOP": "退车网点",
+                            "TGC_SELF_SECOND": "再弹二手车",
+                            "TGC_TOOL_NEW": "工具化新车",
+                            "SAAS_TOP": "全流程",
+                            "SALE_SHOP": "门店仓",
+                            "TGC_DG": "弹个车导购站",
+                            "TGC_MODEL": "弹个车品牌形象店",
+                            "RECIVE_SHOP": "接车商",
+                            "TGC_LEASE": "弹个车经销商",
+                            "TGC_TOOL_SECOND": "工具化二手车"
+                        },
+                        "valueType": "enum",
+                        "name": "车商标签",
+                        "mapDetails": {},
+                        "reactType": "checkbox"
+                    },
+                    {
+                        "code": "tgc_business",
+                        "children": [],
+                        "mapEnum": {
+                            "TGC_SELF_SECOND": "官方二手车",
+                            "TGC_TOOL_NEW": "工具化新车",
+                            "TGC_TOOL_SECOND": "工具化二手车"
+                        },
+                        "valueType": "enum",
+                        "name": "已开通业务类型",
+                        "mapDetails": {},
+                        "reactType": "radio"
+                    }
+                ],
+                "mapEnum": {},
+                "valueType": "",
+                "name": "弹个车基本情况",
+                "mapDetails": {},
+                "reactType": ""
+            },
+            {
+                "code": "CB_BASIC",
+                "children": [
+                    {
+                        "code": "province_code",
+                        "children": [],
+                        "mapEnum": {},
+                        "valueType": "area_province",
+                        "name": "省份",
+                        "mapDetails": {},
+                        "reactType": "transfer"
+                    },
+                    {
+                        "code": "city_code",
+                        "children": [],
+                        "mapEnum": {},
+                        "valueType": "area_city",
+                        "name": "城市",
+                        "mapDetails": {},
+                        "reactType": "transfer"
+                    },
+                    {
+                        "code": "shop_type",
+                        "children": [],
+                        "mapEnum": {
+                            "1": "小型车商",
+                            "2": "4S店",
+                            "3": "新车二网",
+                            "4": "中大型车商"
+                        },
+                        "valueType": "enum",
+                        "name": "车商类型",
+                        "mapDetails": {},
+                        "reactType": "checkbox"
+                    },
+                    {
+                        "code": "exhib_area",
+                        "children": [],
+                        "mapEnum": {
+                            "1": "无展厅",
+                            "2": "<100",
+                            "3": "100-200",
+                            "4": "200-300",
+                            "5": "300-500",
+                            "6": "500-1000",
+                            "7": "1000-3000",
+                            "8": ">3000"
+                        },
+                        "valueType": "enum",
+                        "name": "展厅面积",
+                        "mapDetails": {},
+                        "reactType": "checkbox"
+                    },
+                    {
+                        "code": "fitment",
+                        "children": [],
+                        "mapEnum": {
+                            "豪华": "豪华",
+                            "非豪华": "非豪华"
+                        },
+                        "valueType": "enum",
+                        "name": "展厅豪华度",
+                        "mapDetails": {},
+                        "reactType": "radio"
+                    },
+                    {
+                        "code": "grade",
+                        "children": [],
+                        "mapEnum": {
+                            "C0-": "C0-",
+                            "d1-": "d1-",
+                            "a4+": "a4+",
+                            "b2+": "b2+",
+                            "B3+": "B3+",
+                            "A1+": "A1+",
+                            "a4-": "a4-",
+                            "c4+": "c4+",
+                            "b2-": "b2-",
+                            "B3-": "B3-",
+                            "C1+": "C1+",
+                            "d2+": "d2+",
+                            "a0+": "a0+",
+                            "A1-": "A1-",
+                            "c4-": "c4-",
+                            "D3+": "D3+",
+                            "C1-": "C1-",
+                            "d2-": "d2-",
+                            "a0-": "a0-",
+                            "c0+": "c0+",
+                            "D3-": "D3-",
+                            "c0-": "c0-",
+                            "B4+": "B4+",
+                            "a1+": "a1+",
+                            "A2+": "A2+",
+                            "D4+": "D4+",
+                            "b3+": "b3+",
+                            "B4-": "B4-",
+                            "a1-": "a1-",
+                            "A2-": "A2-",
+                            "c1+": "c1+",
+                            "D4-": "D4-",
+                            "B0+": "B0+",
+                            "b3-": "b3-",
+                            "C2+": "C2+",
+                            "d3+": "d3+",
+                            "c1-": "c1-",
+                            "D0+": "D0+",
+                            "B0-": "B0-",
+                            "C2-": "C2-",
+                            "d3-": "d3-",
+                            "D0-": "D0-",
+                            "b4+": "b4+",
+                            "A3+": "A3+",
+                            "b4-": "b4-",
+                            "C3+": "C3+",
+                            "d4+": "d4+",
+                            "a2+": "a2+",
+                            "A3-": "A3-",
+                            "b0+": "b0+",
+                            "B1+": "B1+",
+                            "C3-": "C3-",
+                            "d4-": "d4-",
+                            "a2-": "a2-",
+                            "c2+": "c2+",
+                            "b0-": "b0-",
+                            "B1-": "B1-",
+                            "d0+": "d0+",
+                            "c2-": "c2-",
+                            "D1+": "D1+",
+                            "d0-": "d0-",
+                            "D1-": "D1-",
+                            "a3+": "a3+",
+                            "A4+": "A4+",
+                            "a3-": "a3-",
+                            "A4-": "A4-",
+                            "c3+": "c3+",
+                            "B2+": "B2+",
+                            "C4+": "C4+",
+                            "A0+": "A0+",
+                            "c3-": "c3-",
+                            "D2+": "D2+",
+                            "b1+": "b1+",
+                            "B2-": "B2-",
+                            "C4-": "C4-",
+                            "A0-": "A0-",
+                            "D2-": "D2-",
+                            "b1-": "b1-",
+                            "C0+": "C0+",
+                            "d1+": "d1+"
+                        },
+                        "valueType": "enum",
+                        "name": "车商等级",
+                        "mapDetails": {},
+                        "reactType": "cascader"
+                    },
+                    {
+                        "code": "price_interval",
+                        "children": [],
+                        "mapEnum": {
+                            "1": "<5w",
+                            "2": "5-10w",
+                            "3": "10-15w",
+                            "4": "15-20w",
+                            "5": "20-30w",
+                            "6": "30-50w",
+                            "7": "50-100w",
+                            "8": ">100w"
+                        },
+                        "valueType": "enum",
+                        "name": "主营车型价格",
+                        "mapDetails": {},
+                        "reactType": "checkbox"
+                    },
+                    {
+                        "code": "categories",
+                        "children": [],
+                        "mapEnum": {
+                            "1": "国产",
+                            "2": "进口",
+                            "3": "平行进口"
+                        },
+                        "valueType": "enum",
+                        "name": "主营品牌类型",
+                        "mapDetails": {},
+                        "reactType": "checkbox"
+                    },
+                    {
+                        "code": "salesman_num",
+                        "children": [],
+                        "mapEnum": {
+                            "1": "<2",
+                            "2": "3-5",
+                            "3": "6-10",
+                            "4": "11-20",
+                            "5": ">21"
+                        },
+                        "valueType": "enum",
+                        "name": "销售人数",
+                        "mapDetails": {},
+                        "reactType": "checkbox"
+                    },
+                    {
+                        "code": "shop_num",
+                        "children": [],
+                        "mapEnum": {
+                            "1": "小于2个",
+                            "2": "3-5个",
+                            "3": "大于5个"
+                        },
+                        "valueType": "enum",
+                        "name": "门店数量",
+                        "mapDetails": {},
+                        "reactType": "checkbox"
+                    },
+                    {
+                        "code": "storage_num",
+                        "children": [],
+                        "mapEnum": {
+                            "1": "小于5个",
+                            "2": "6-10个",
+                            "3": "11-20个",
+                            "4": "21-50个",
+                            "5": "51-100个",
+                            "6": "大于100个"
+                        },
+                        "valueType": "enum",
+                        "name": "库位数量",
+                        "mapDetails": {},
+                        "reactType": "checkbox"
+                    },
+                    {
+                        "code": "property",
+                        "children": [],
+                        "mapEnum": {
+                            "1": "上游",
+                            "2": "下游",
+                            "3": "上下游"
+                        },
+                        "valueType": "enum",
+                        "name": "公司属性",
+                        "mapDetails": {},
+                        "reactType": "checkbox"
+                    },
+                    {
+                        "code": "is_second_hand",
+                        "children": [],
+                        "mapEnum": {
+                            "0": "否",
+                            "1": "是"
+                        },
+                        "valueType": "enum",
+                        "name": "自营二手车零售",
+                        "mapDetails": {},
+                        "reactType": "checkbox"
+                    },
+                    {
+                        "code": "full_payment",
+                        "children": [],
+                        "mapEnum": {
+                            "0": "否",
+                            "1": "是"
+                        },
+                        "valueType": "enum",
+                        "name": "全款压车",
+                        "mapDetails": {},
+                        "reactType": "checkbox"
+                    },
+                    {
+                        "code": "marketing_type",
+                        "children": [],
+                        "mapEnum": {
+                            "1": "熟客转介绍",
+                            "2": "线上平台投放引流",
+                            "3": "线下宣传",
+                            "4": "电话外呼营销",
+                            "5": "微信朋友圈营销",
+                            "6": "电台"
+                        },
+                        "valueType": "enum",
+                        "name": "主要营销方式",
+                        "mapDetails": {},
+                        "reactType": "checkbox"
+                    },
+                    {
+                        "code": "wholesale",
+                        "children": [],
+                        "mapEnum": {
+                            "0": "否",
+                            "1": "是"
+                        },
+                        "valueType": "enum",
+                        "name": "批发业务",
+                        "mapDetails": {},
+                        "reactType": "checkbox"
+                    },
+                    {
+                        "code": "month_sales",
+                        "children": [],
+                        "mapEnum": {
+                            "1": "<10",
+                            "2": "11-30",
+                            "3": "31-50",
+                            "4": "51-100",
+                            "5": ">100"
+                        },
+                        "valueType": "enum",
+                        "name": "月均销量",
+                        "mapDetails": {},
+                        "reactType": "checkbox"
+                    }
+                ],
+                "mapEnum": {},
+                "valueType": "",
+                "name": "基础情况",
+                "mapDetails": {},
+                "reactType": ""
+            },
+            {
+                "code": "CT_ZHUHOU",
+                "children": [
+                    {
+                        "code": "stages_transformation_ability",
+                        "children": [],
+                        "mapEnum": {
+                            "高": "高",
+                            "中": "中",
+                            "低": "低"
+                        },
+                        "valueType": "enum",
+                        "name": "分期转化能力",
+                        "mapDetails": {},
+                        "reactType": "checkbox"
+                    }
+                ],
+                "mapEnum": {},
+                "valueType": "",
+                "name": "租后",
+                "mapDetails": {},
+                "reactType": ""
+            },
+            {
+                "code": "CT_JC_NEW_CAR",
+                "children": [
+                    {
+                        "code": "purcharse_new_30_cn",
+                        "children": [],
+                        "mapEnum": {},
+                        "valueType": "number",
+                        "name": "近30天销量",
+                        "mapDetails": {},
+                        "reactType": "range"
+                    },
+                    {
+                        "code": "purcharse_new_1_cn",
+                        "children": [],
+                        "mapEnum": {},
+                        "valueType": "number",
+                        "name": "昨日销量",
+                        "mapDetails": {},
+                        "reactType": "range"
+                    },
+                    {
+                        "code": "purcharse_new_cn",
+                        "children": [],
+                        "mapEnum": {},
+                        "valueType": "number",
+                        "name": "历史累计销量",
+                        "mapDetails": {},
+                        "reactType": "range"
+                    }
+                ],
+                "mapEnum": {},
+                "valueType": "",
+                "name": "集采新车",
+                "mapDetails": {},
+                "reactType": ""
+            },
+            {
+                "code": "CS_BASIC",
+                "children": [
+                    {
+                        "code": "use_saas",
+                        "children": [],
+                        "mapEnum": {
+                            "0": "否",
+                            "1": "是"
+                        },
+                        "valueType": "enum",
+                        "name": "是否使用SAAS",
+                        "mapDetails": {},
+                        "reactType": "radio"
+                    },
+                    {
+                        "code": "is_saas_top",
+                        "children": [],
+                        "mapEnum": {
+                            "0": "否",
+                            "1": "是"
+                        },
+                        "valueType": "enum",
+                        "name": "是否为全流程车商",
+                        "mapDetails": {},
+                        "reactType": "radio"
+                    },
+                    {
+                        "code": "crm_input_customer_sd_count",
+                        "children": [],
+                        "mapEnum": {},
+                        "valueType": "number",
+                        "name": "近7天主动录入客户数",
+                        "mapDetails": {},
+                        "reactType": "range"
+                    },
+                    {
+                        "code": "erp_evaluation_car_count",
+                        "children": [],
+                        "mapEnum": {},
+                        "valueType": "number",
+                        "name": "近7天评估量",
+                        "mapDetails": {},
+                        "reactType": "range"
+                    },
+                    {
+                        "code": "erp_publish_car_count",
+                        "children": [],
+                        "mapEnum": {},
+                        "valueType": "number",
+                        "name": "近7天发车量",
+                        "mapDetails": {},
+                        "reactType": "range"
+                    },
+                    {
+                        "code": "erp_deal_car_count",
+                        "children": [],
+                        "mapEnum": {},
+                        "valueType": "number",
+                        "name": "近7天成交量",
+                        "mapDetails": {},
+                        "reactType": "range"
+                    },
+                    {
+                        "code": "share_sum",
+                        "children": [],
+                        "mapEnum": {},
+                        "valueType": "number",
+                        "name": "近7天分享数",
+                        "mapDetails": {},
+                        "reactType": "range"
+                    }
+                ],
+                "mapEnum": {},
+                "valueType": "",
+                "name": "SAAS基本情况",
+                "mapDetails": {},
+                "reactType": ""
+            }
+        ],
+        "curPickedTag": {
+            "code": "car_brand",
+            "children": [],
+            "mapEnum": {},
+            "valueType": "car_brand",
+            "name": "汽车品牌",
+            "targetLabel": [],
+            "topLevelTagName": "人口属性",
+            "mapDetails": {},
+            "reactType": "transfer"
+        },
+        "securityTokenInc": "91528957140685132",
+        "carBrand": [
+            {
+                "children": [],
+                "key": "brand-859",
+                "label": "AC Schnitzer",
+                "value": "brand-859"
+            },
+            {
+                "children": [],
+                "key": "brand-856",
+                "label": "ALPINA",
+                "value": "brand-856"
+            },
+            {
+                "children": [],
+                "key": "brand-544",
+                "label": "DS",
+                "value": "brand-544"
+            },
+            {
+                "children": [],
+                "key": "brand-3",
+                "label": "GMC",
+                "value": "brand-3"
+            },
+            {
+                "children": [],
+                "key": "brand-74",
+                "label": "Jeep",
+                "value": "brand-74"
+            },
+            {
+                "children": [],
+                "key": "brand-562",
+                "label": "KTM",
+                "value": "brand-562"
+            },
+            {
+                "children": [],
+                "key": "brand-109",
+                "label": "MG",
+                "value": "brand-109"
+            },
+            {
+                "children": [],
+                "key": "brand-108",
+                "label": "MINI",
+                "value": "brand-108"
+            },
+            {
+                "children": [],
+                "key": "brand-837",
+                "label": "WEY",
+                "value": "brand-837"
+            },
+            {
+                "children": [],
+                "key": "brand-10",
+                "label": "smart",
+                "value": "brand-10"
+            },
+            {
+                "children": [],
+                "key": "brand-886",
+                "label": "tiny品牌",
+                "value": "brand-886"
+            },
+            {
+                "children": [],
+                "key": "brand-156",
+                "label": "一汽",
+                "value": "brand-156"
+            },
+            {
+                "children": [],
+                "key": "brand-126",
+                "label": "三菱",
+                "value": "brand-126"
+            },
+            {
+                "children": [],
+                "key": "brand-1004-n",
+                "label": "上汽大通",
+                "value": "brand-1004-n"
+            },
+            {
+                "children": [],
+                "key": "brand-536",
+                "label": "世爵",
+                "value": "brand-536"
+            },
+            {
+                "children": [],
+                "key": "brand-45",
+                "label": "东南",
+                "value": "brand-45"
+            },
+            {
+                "children": [],
+                "key": "brand-44",
+                "label": "东风",
+                "value": "brand-44"
+            },
+            {
+                "children": [],
+                "key": "brand-524",
+                "label": "东风小康",
+                "value": "brand-524"
+            },
+            {
+                "children": [],
+                "key": "brand-817",
+                "label": "东风风光",
+                "value": "brand-817"
+            },
+            {
+                "children": [],
+                "key": "brand-506",
+                "label": "东风风度",
+                "value": "brand-506"
+            },
+            {
+                "children": [],
+                "key": "brand-522",
+                "label": "东风风神",
+                "value": "brand-522"
+            },
+            {
+                "children": [],
+                "key": "brand-574",
+                "label": "东风风行",
+                "value": "brand-574"
+            },
+            {
+                "children": [],
+                "key": "brand-170",
+                "label": "中兴",
+                "value": "brand-170"
+            },
+            {
+                "children": [],
+                "key": "brand-167",
+                "label": "中华",
+                "value": "brand-167"
+            },
+            {
+                "children": [],
+                "key": "brand-582",
+                "label": "中欧汽车",
+                "value": "brand-582"
+            },
+            {
+                "children": [],
+                "key": "brand-803",
+                "label": "中顺",
+                "value": "brand-803"
+            },
+            {
+                "children": [],
+                "key": "brand-49",
+                "label": "丰田",
+                "value": "brand-49"
+            },
+            {
+                "children": [],
+                "key": "brand-833",
+                "label": "之诺",
+                "value": "brand-833"
+            },
+            {
+                "children": [],
+                "key": "brand-815",
+                "label": "乔治·巴顿",
+                "value": "brand-815"
+            },
+            {
+                "children": [],
+                "key": "brand-554",
+                "label": "九龙",
+                "value": "brand-554"
+            },
+            {
+                "children": [],
+                "key": "brand-853",
+                "label": "云度",
+                "value": "brand-853"
+            },
+            {
+                "children": [],
+                "key": "brand-810",
+                "label": "云雀",
+                "value": "brand-810"
+            },
+            {
+                "children": [],
+                "key": "brand-550",
+                "label": "五十铃",
+                "value": "brand-550"
+            },
+            {
+                "children": [],
+                "key": "brand-148",
+                "label": "五菱汽车",
+                "value": "brand-148"
+            },
+            {
+                "children": [],
+                "key": "brand-172",
+                "label": "众泰",
+                "value": "brand-172"
+            },
+            {
+                "children": [],
+                "key": "brand-157",
+                "label": "依维柯",
+                "value": "brand-157"
+            },
+            {
+                "children": [],
+                "key": "brand-22",
+                "label": "保时捷",
+                "value": "brand-22"
+            },
+            {
+                "children": [],
+                "key": "brand-580",
+                "label": "光冈",
+                "value": "brand-580"
+            },
+            {
+                "children": [],
+                "key": "brand-86",
+                "label": "克莱斯勒",
+                "value": "brand-86"
+            },
+            {
+                "children": [],
+                "key": "brand-88",
+                "label": "兰博基尼",
+                "value": "brand-88"
+            },
+            {
+                "children": [],
+                "key": "brand-556",
+                "label": "凯翼",
+                "value": "brand-556"
+            },
+            {
+                "children": [],
+                "key": "brand-84",
+                "label": "凯迪拉克",
+                "value": "brand-84"
+            },
+            {
+                "children": [],
+                "key": "brand-30",
+                "label": "别克",
+                "value": "brand-30"
+            },
+            {
+                "children": [],
+                "key": "brand-94",
+                "label": "力帆",
+                "value": "brand-94"
+            },
+            {
+                "children": [],
+                "key": "brand-867",
+                "label": "劳伦士",
+                "value": "brand-867"
+            },
+            {
+                "children": [],
+                "key": "brand-91",
+                "label": "劳斯莱斯",
+                "value": "brand-91"
+            },
+            {
+                "children": [],
+                "key": "brand-23",
+                "label": "北京汽车",
+                "value": "brand-23"
+            },
+            {
+                "children": [],
+                "key": "brand-24",
+                "label": "北汽制造",
+                "value": "brand-24"
+            },
+            {
+                "children": [],
+                "key": "brand-546",
+                "label": "北汽威旺",
+                "value": "brand-546"
+            },
+            {
+                "children": [],
+                "key": "brand-570",
+                "label": "北汽幻速",
+                "value": "brand-570"
+            },
+            {
+                "children": [],
+                "key": "brand-512",
+                "label": "北汽新能源",
+                "value": "brand-512"
+            },
+            {
+                "children": [],
+                "key": "brand-870",
+                "label": "北汽道达",
+                "value": "brand-870"
+            },
+            {
+                "children": [],
+                "key": "brand-814",
+                "label": "华凯",
+                "value": "brand-814"
+            },
+            {
+                "children": [],
+                "key": "brand-64",
+                "label": "华普",
+                "value": "brand-64"
+            },
+            {
+                "children": [],
+                "key": "brand-65",
+                "label": "华泰",
+                "value": "brand-65"
+            },
+            {
+                "children": [],
+                "key": "brand-741",
+                "label": "华颂",
+                "value": "brand-741"
+            },
+            {
+                "children": [],
+                "key": "brand-568",
+                "label": "南京金龙",
+                "value": "brand-568"
+            },
+            {
+                "children": [],
+                "key": "brand-862",
+                "label": "卡升",
+                "value": "brand-862"
+            },
+            {
+                "children": [],
+                "key": "brand-576",
+                "label": "卡威",
+                "value": "brand-576"
+            },
+            {
+                "children": [],
+                "key": "brand-538",
+                "label": "卡尔森",
+                "value": "brand-538"
+            },
+            {
+                "children": [],
+                "key": "brand-131",
+                "label": "双环",
+                "value": "brand-131"
+            },
+            {
+                "children": [],
+                "key": "brand-132",
+                "label": "双龙",
+                "value": "brand-132"
+            },
+            {
+                "children": [],
+                "key": "brand-72",
+                "label": "吉利汽车",
+                "value": "brand-72"
+            },
+            {
+                "children": [],
+                "key": "brand-869",
+                "label": "君马汽车",
+                "value": "brand-869"
+            },
+            {
+                "children": [],
+                "key": "brand-520",
+                "label": "启辰",
+                "value": "brand-520"
+            },
+            {
+                "children": [],
+                "key": "brand-530",
+                "label": "哈弗",
+                "value": "brand-530"
+            },
+            {
+                "children": [],
+                "key": "brand-57",
+                "label": "哈飞",
+                "value": "brand-57"
+            },
+            {
+                "children": [],
+                "key": "brand-41",
+                "label": "大众",
+                "value": "brand-41"
+            },
+            {
+                "children": [],
+                "key": "brand-500",
+                "label": "大发",
+                "value": "brand-500"
+            },
+            {
+                "children": [],
+                "key": "brand-806",
+                "label": "大宇",
+                "value": "brand-806"
+            },
+            {
+                "children": [],
+                "key": "brand-808",
+                "label": "大迪",
+                "value": "brand-808"
+            },
+            {
+                "children": [],
+                "key": "brand-809",
+                "label": "天马",
+                "value": "brand-809"
+            },
+            {
+                "children": [],
+                "key": "brand-118",
+                "label": "奇瑞",
+                "value": "brand-118"
+            },
+            {
+                "children": [],
+                "key": "brand-26",
+                "label": "奔腾",
+                "value": "brand-26"
+            },
+            {
+                "children": [],
+                "key": "brand-25",
+                "label": "奔驰",
+                "value": "brand-25"
+            },
+            {
+                "children": [],
+                "key": "brand-15",
+                "label": "奥迪",
+                "value": "brand-15"
+            },
+            {
+                "children": [],
+                "key": "brand-504",
+                "label": "如虎",
+                "value": "brand-504"
+            },
+            {
+                "children": [],
+                "key": "brand-145",
+                "label": "威兹曼",
+                "value": "brand-145"
+            },
+            {
+                "children": [],
+                "key": "brand-873",
+                "label": "威马汽车",
+                "value": "brand-873"
+            },
+            {
+                "children": [],
+                "key": "brand-144",
+                "label": "威麟",
+                "value": "brand-144"
+            },
+            {
+                "children": [],
+                "key": "brand-548",
+                "label": "安凯客车",
+                "value": "brand-548"
+            },
+            {
+                "children": [],
+                "key": "brand-821",
+                "label": "宝沃",
+                "value": "brand-821"
+            },
+            {
+                "children": [],
+                "key": "brand-20",
+                "label": "宝马",
+                "value": "brand-20"
+            },
+            {
+                "children": [],
+                "key": "brand-18",
+                "label": "宝骏",
+                "value": "brand-18"
+            },
+            {
+                "children": [],
+                "key": "brand-822",
+                "label": "宾仕盾",
+                "value": "brand-822"
+            },
+            {
+                "children": [],
+                "key": "brand-31",
+                "label": "宾利",
+                "value": "brand-31"
+            },
+            {
+                "children": [],
+                "key": "brand-823",
+                "label": "富奇",
+                "value": "brand-823"
+            },
+            {
+                "children": [],
+                "key": "brand-826",
+                "label": "尼奥普兰",
+                "value": "brand-826"
+            },
+            {
+                "children": [],
+                "key": "brand-1018-n",
+                "label": "巴博斯",
+                "value": "brand-1018-n"
+            },
+            {
+                "children": [],
+                "key": "brand-33",
+                "label": "布加迪",
+                "value": "brand-33"
+            },
+            {
+                "children": [],
+                "key": "brand-824",
+                "label": "帕卡德",
+                "value": "brand-824"
+            },
+            {
+                "children": [],
+                "key": "brand-56",
+                "label": "广汽传祺",
+                "value": "brand-56"
+            },
+            {
+                "children": [],
+                "key": "brand-71",
+                "label": "广汽吉奥",
+                "value": "brand-71"
+            },
+            {
+                "children": [],
+                "key": "brand-816",
+                "label": "康迪",
+                "value": "brand-816"
+            },
+            {
+                "children": [],
+                "key": "brand-82",
+                "label": "开瑞",
+                "value": "brand-82"
+            },
+            {
+                "children": [],
+                "key": "brand-865",
+                "label": "征服Conquest",
+                "value": "brand-865"
+            },
+            {
+                "children": [],
+                "key": "brand-852",
+                "label": "御捷",
+                "value": "brand-852"
+            },
+            {
+                "children": [],
+                "key": "brand-825",
+                "label": "思派朗",
+                "value": "brand-825"
+            },
+            {
+                "children": [],
+                "key": "brand-578",
+                "label": "思铭",
+                "value": "brand-578"
+            },
+            {
+                "children": [],
+                "key": "brand-564",
+                "label": "恒天",
+                "value": "brand-564"
+            },
+            {
+                "children": [],
+                "key": "brand-59",
+                "label": "悍马",
+                "value": "brand-59"
+            },
+            {
+                "children": [],
+                "key": "brand-516",
+                "label": "成功汽车",
+                "value": "brand-516"
+            },
+            {
+                "children": [],
+                "key": "brand-847",
+                "label": "房车",
+                "value": "brand-847"
+            },
+            {
+                "children": [],
+                "key": "brand-832",
+                "label": "拉达",
+                "value": "brand-832"
+            },
+            {
+                "children": [],
+                "key": "brand-78",
+                "label": "捷豹",
+                "value": "brand-78"
+            },
+            {
+                "children": [],
+                "key": "brand-572",
+                "label": "摩根",
+                "value": "brand-572"
+            },
+            {
+                "children": [],
+                "key": "brand-831",
+                "label": "斯威",
+                "value": "brand-831"
+            },
+            {
+                "children": [],
+                "key": "brand-134",
+                "label": "斯巴鲁",
+                "value": "brand-134"
+            },
+            {
+                "children": [],
+                "key": "brand-135",
+                "label": "斯柯达",
+                "value": "brand-135"
+            },
+            {
+                "children": [],
+                "key": "brand-838",
+                "label": "斯达泰克",
+                "value": "brand-838"
+            },
+            {
+                "children": [],
+                "key": "brand-807",
+                "label": "新凯",
+                "value": "brand-807"
+            },
+            {
+                "children": [],
+                "key": "brand-121",
+                "label": "日产",
+                "value": "brand-121"
+            },
+            {
+                "children": [],
+                "key": "brand-35",
+                "label": "昌河",
+                "value": "brand-35"
+            },
+            {
+                "children": [],
+                "key": "brand-27",
+                "label": "本田",
+                "value": "brand-27"
+            },
+            {
+                "children": [],
+                "key": "brand-96",
+                "label": "林肯",
+                "value": "brand-96"
+            },
+            {
+                "children": [],
+                "key": "brand-29",
+                "label": "标致",
+                "value": "brand-29"
+            },
+            {
+                "children": [],
+                "key": "brand-114",
+                "label": "欧宝",
+                "value": "brand-114"
+            },
+            {
+                "children": [],
+                "key": "brand-558",
+                "label": "欧朗",
+                "value": "brand-558"
+            },
+            {
+                "children": [],
+                "key": "brand-28",
+                "label": "比亚迪",
+                "value": "brand-28"
+            },
+            {
+                "children": [],
+                "key": "brand-829",
+                "label": "比速汽车",
+                "value": "brand-829"
+            },
+            {
+                "children": [],
+                "key": "brand-161",
+                "label": "永源",
+                "value": "brand-161"
+            },
+            {
+                "children": [],
+                "key": "brand-804",
+                "label": "汉江",
+                "value": "brand-804"
+            },
+            {
+                "children": [],
+                "key": "brand-835",
+                "label": "汉腾汽车",
+                "value": "brand-835"
+            },
+            {
+                "children": [],
+                "key": "brand-75",
+                "label": "江淮",
+                "value": "brand-75"
+            },
+            {
+                "children": [],
+                "key": "brand-76",
+                "label": "江铃",
+                "value": "brand-76"
+            },
+            {
+                "children": [],
+                "key": "brand-841",
+                "label": "江铃集团新能源",
+                "value": "brand-841"
+            },
+            {
+                "children": [],
+                "key": "brand-542",
+                "label": "江铃集团轻汽",
+                "value": "brand-542"
+            },
+            {
+                "children": [],
+                "key": "brand-146",
+                "label": "沃尔沃",
+                "value": "brand-146"
+            },
+            {
+                "children": [],
+                "key": "brand-46",
+                "label": "法拉利",
+                "value": "brand-46"
+            },
+            {
+                "children": [],
+                "key": "brand-827",
+                "label": "泰卡特",
+                "value": "brand-827"
+            },
+            {
+                "children": [],
+                "key": "brand-465",
+                "label": "海格",
+                "value": "brand-465"
+            },
+            {
+                "children": [],
+                "key": "brand-58",
+                "label": "海马",
+                "value": "brand-58"
+            },
+            {
+                "children": [],
+                "key": "brand-510",
+                "label": "特斯拉",
+                "value": "brand-510"
+            },
+            {
+                "children": [],
+                "key": "brand-166",
+                "label": "猎豹汽车",
+                "value": "brand-166"
+            },
+            {
+                "children": [],
+                "key": "brand-103",
+                "label": "玛莎拉蒂",
+                "value": "brand-103"
+            },
+            {
+                "children": [],
+                "key": "brand-151",
+                "label": "现代",
+                "value": "brand-151"
+            },
+            {
+                "children": [],
+                "key": "brand-502",
+                "label": "理念",
+                "value": "brand-502"
+            },
+            {
+                "children": [],
+                "key": "brand-123",
+                "label": "瑞麒",
+                "value": "brand-123"
+            },
+            {
+                "children": [],
+                "key": "brand-858",
+                "label": "瓦滋UAZ",
+                "value": "brand-858"
+            },
+            {
+                "children": [],
+                "key": "brand-532",
+                "label": "知豆",
+                "value": "brand-532"
+            },
+            {
+                "children": [],
+                "key": "brand-508",
+                "label": "福汽启腾",
+                "value": "brand-508"
+            },
+            {
+                "children": [],
+                "key": "brand-53",
+                "label": "福特",
+                "value": "brand-53"
+            },
+            {
+                "children": [],
+                "key": "brand-54",
+                "label": "福田",
+                "value": "brand-54"
+            },
+            {
+                "children": [],
+                "key": "brand-52",
+                "label": "福迪",
+                "value": "brand-52"
+            },
+            {
+                "children": [],
+                "key": "brand-540",
+                "label": "科尼赛克",
+                "value": "brand-540"
+            },
+            {
+                "children": [],
+                "key": "brand-62",
+                "label": "红旗",
+                "value": "brand-62"
+            },
+            {
+                "children": [],
+                "key": "brand-111",
+                "label": "纳智捷",
+                "value": "brand-111"
+            },
+            {
+                "children": [],
+                "key": "brand-534",
+                "label": "绅宝",
+                "value": "brand-534"
+            },
+            {
+                "children": [],
+                "key": "brand-805",
+                "label": "罗孚",
+                "value": "brand-805"
+            },
+            {
+                "children": [],
+                "key": "brand-1016-n",
+                "label": "美亚",
+                "value": "brand-1016-n"
+            },
+            {
+                "children": [],
+                "key": "brand-828",
+                "label": "老爷车",
+                "value": "brand-828"
+            },
+            {
+                "children": [],
+                "key": "brand-566",
+                "label": "腾势",
+                "value": "brand-566"
+            },
+            {
+                "children": [],
+                "key": "brand-560",
+                "label": "英致",
+                "value": "brand-560"
+            },
+            {
+                "children": [],
+                "key": "brand-158",
+                "label": "英菲尼迪",
+                "value": "brand-158"
+            },
+            {
+                "children": [],
+                "key": "brand-122",
+                "label": "荣威",
+                "value": "brand-122"
+            },
+            {
+                "children": [],
+                "key": "brand-95",
+                "label": "莲花汽车",
+                "value": "brand-95"
+            },
+            {
+                "children": [],
+                "key": "brand-48",
+                "label": "菲亚特",
+                "value": "brand-48"
+            },
+            {
+                "children": [],
+                "key": "brand-820",
+                "label": "菲斯克",
+                "value": "brand-820"
+            },
+            {
+                "children": [],
+                "key": "brand-124",
+                "label": "萨博",
+                "value": "brand-124"
+            },
+            {
+                "children": [],
+                "key": "brand-851",
+                "label": "蔚来",
+                "value": "brand-851"
+            },
+            {
+                "children": [],
+                "key": "brand-150",
+                "label": "西雅特",
+                "value": "brand-150"
+            },
+            {
+                "children": [],
+                "key": "brand-1001-n",
+                "label": "观致",
+                "value": "brand-1001-n"
+            },
+            {
+                "children": [],
+                "key": "brand-113",
+                "label": "讴歌",
+                "value": "brand-113"
+            },
+            {
+                "children": [],
+                "key": "brand-813",
+                "label": "赛麟",
+                "value": "brand-813"
+            },
+            {
+                "children": [],
+                "key": "brand-119",
+                "label": "起亚",
+                "value": "brand-119"
+            },
+            {
+                "children": [],
+                "key": "brand-518",
+                "label": "路特斯",
+                "value": "brand-518"
+            },
+            {
+                "children": [],
+                "key": "brand-99",
+                "label": "路虎",
+                "value": "brand-99"
+            },
+            {
+                "children": [],
+                "key": "brand-514",
+                "label": "迈凯伦",
+                "value": "brand-514"
+            },
+            {
+                "children": [],
+                "key": "brand-104",
+                "label": "迈巴赫",
+                "value": "brand-104"
+            },
+            {
+                "children": [],
+                "key": "brand-42",
+                "label": "道奇",
+                "value": "brand-42"
+            },
+            {
+                "children": [],
+                "key": "brand-1005-n",
+                "label": "野马汽车",
+                "value": "brand-1005-n"
+            },
+            {
+                "children": [],
+                "key": "brand-552",
+                "label": "金旅",
+                "value": "brand-552"
+            },
+            {
+                "children": [],
+                "key": "brand-79",
+                "label": "金杯",
+                "value": "brand-79"
+            },
+            {
+                "children": [],
+                "key": "brand-812",
+                "label": "金程",
+                "value": "brand-812"
+            },
+            {
+                "children": [],
+                "key": "brand-528",
+                "label": "金龙",
+                "value": "brand-528"
+            },
+            {
+                "children": [],
+                "key": "brand-872",
+                "label": "鑫源",
+                "value": "brand-872"
+            },
+            {
+                "children": [],
+                "key": "brand-97",
+                "label": "铃木",
+                "value": "brand-97"
+            },
+            {
+                "children": [],
+                "key": "brand-165",
+                "label": "长城",
+                "value": "brand-165"
+            },
+            {
+                "children": [],
+                "key": "brand-164",
+                "label": "长安",
+                "value": "brand-164"
+            },
+            {
+                "children": [],
+                "key": "brand-526",
+                "label": "长安欧尚",
+                "value": "brand-526"
+            },
+            {
+                "children": [],
+                "key": "brand-874",
+                "label": "长安跨越",
+                "value": "brand-874"
+            },
+            {
+                "children": [],
+                "key": "brand-875",
+                "label": "长安轻型车",
+                "value": "brand-875"
+            },
+            {
+                "children": [],
+                "key": "brand-12",
+                "label": "阿尔法罗密欧",
+                "value": "brand-12"
+            },
+            {
+                "children": [],
+                "key": "brand-13",
+                "label": "阿斯顿・马丁",
+                "value": "brand-13"
+            },
+            {
+                "children": [],
+                "key": "brand-819",
+                "label": "陆地方舟",
+                "value": "brand-819"
+            },
+            {
+                "children": [],
+                "key": "brand-98",
+                "label": "陆风",
+                "value": "brand-98"
+            },
+            {
+                "children": [],
+                "key": "brand-802",
+                "label": "陕汽通家",
+                "value": "brand-802"
+            },
+            {
+                "children": [],
+                "key": "brand-154",
+                "label": "雪佛兰",
+                "value": "brand-154"
+            },
+            {
+                "children": [],
+                "key": "brand-155",
+                "label": "雪铁龙",
+                "value": "brand-155"
+            },
+            {
+                "children": [],
+                "key": "brand-863",
+                "label": "雷丁",
+                "value": "brand-863"
+            },
+            {
+                "children": [],
+                "key": "brand-92",
+                "label": "雷克萨斯",
+                "value": "brand-92"
+            },
+            {
+                "children": [],
+                "key": "brand-93",
+                "label": "雷诺",
+                "value": "brand-93"
+            },
+            {
+                "children": [],
+                "key": "brand-850",
+                "label": "领克",
+                "value": "brand-850"
+            },
+            {
+                "children": [],
+                "key": "brand-102",
+                "label": "马自达",
+                "value": "brand-102"
+            },
+            {
+                "children": [],
+                "key": "brand-834",
+                "label": "驭胜",
+                "value": "brand-834"
+            },
+            {
+                "children": [],
+                "key": "brand-68",
+                "label": "黄海",
+                "value": "brand-68"
+            }
+        ],
+        "_isModalVisibled": true,
+        "query": [],
+        "domain": "channel",
+        "trackHost": "http://datacenter-log-center.dasouche-inc.net"
+    },
+    "msg": "success",
+    "success": true,
+    "traceId": "vonbK2"
+}

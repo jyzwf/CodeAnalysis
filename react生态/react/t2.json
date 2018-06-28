@@ -1,0 +1,2710 @@
+{
+    "code": "200",
+    "data": {
+        "curPickedTagValue": [
+            "",
+            ""
+        ],
+        "areaCity": [
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "label": "淮北",
+                        "value": "01108",
+                        "key": "01108"
+                    },
+                    {
+                        "children": [],
+                        "label": "马鞍山",
+                        "value": "01103",
+                        "key": "01103"
+                    },
+                    {
+                        "children": [],
+                        "label": "阜阳",
+                        "value": "01147",
+                        "key": "01147"
+                    },
+                    {
+                        "children": [],
+                        "label": "六安",
+                        "value": "01168",
+                        "key": "01168"
+                    },
+                    {
+                        "children": [],
+                        "label": "铜陵",
+                        "value": "01113",
+                        "key": "01113"
+                    },
+                    {
+                        "children": [],
+                        "label": "宿州",
+                        "value": "01156",
+                        "key": "01156"
+                    },
+                    {
+                        "children": [],
+                        "label": "安庆",
+                        "value": "01118",
+                        "key": "01118"
+                    },
+                    {
+                        "children": [],
+                        "label": "滁州",
+                        "value": "01138",
+                        "key": "01138"
+                    },
+                    {
+                        "children": [],
+                        "label": "池州",
+                        "value": "01180",
+                        "key": "01180"
+                    },
+                    {
+                        "children": [],
+                        "label": "蚌埠",
+                        "value": "01088",
+                        "key": "01088"
+                    },
+                    {
+                        "children": [],
+                        "label": "合肥",
+                        "value": "01076",
+                        "key": "01076"
+                    },
+                    {
+                        "children": [],
+                        "label": "亳州",
+                        "value": "01175",
+                        "key": "01175"
+                    },
+                    {
+                        "children": [],
+                        "label": "黄山",
+                        "value": "01130",
+                        "key": "01130"
+                    },
+                    {
+                        "children": [],
+                        "label": "宣城",
+                        "value": "01185",
+                        "key": "01185"
+                    },
+                    {
+                        "children": [],
+                        "label": "淮南",
+                        "value": "01096",
+                        "key": "01096"
+                    },
+                    {
+                        "children": [],
+                        "label": "巢湖",
+                        "value": "01162",
+                        "key": "01162"
+                    },
+                    {
+                        "children": [],
+                        "label": "芜湖",
+                        "value": "01080",
+                        "key": "01080"
+                    }
+                ],
+                "label": "安徽",
+                "value": "01075",
+                "key": "01075"
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "label": "北京",
+                        "value": "00002",
+                        "key": "00002"
+                    }
+                ],
+                "label": "北京",
+                "value": "00001",
+                "key": "00001"
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "label": "重庆",
+                        "value": "00064",
+                        "key": "00064"
+                    }
+                ],
+                "label": "重庆",
+                "value": "00063",
+                "key": "00063"
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "label": "福州",
+                        "value": "01194",
+                        "key": "01194"
+                    },
+                    {
+                        "children": [],
+                        "label": "龙岩",
+                        "value": "01270",
+                        "key": "01270"
+                    },
+                    {
+                        "children": [],
+                        "label": "厦门",
+                        "value": "01208",
+                        "key": "01208"
+                    },
+                    {
+                        "children": [],
+                        "label": "泉州",
+                        "value": "01234",
+                        "key": "01234"
+                    },
+                    {
+                        "children": [],
+                        "label": "宁德",
+                        "value": "01278",
+                        "key": "01278"
+                    },
+                    {
+                        "children": [],
+                        "label": "莆田",
+                        "value": "01228",
+                        "key": "01228"
+                    },
+                    {
+                        "children": [],
+                        "label": "三明",
+                        "value": "01215",
+                        "key": "01215"
+                    },
+                    {
+                        "children": [],
+                        "label": "南平",
+                        "value": "01259",
+                        "key": "01259"
+                    },
+                    {
+                        "children": [],
+                        "label": "漳州",
+                        "value": "01247",
+                        "key": "01247"
+                    }
+                ],
+                "label": "福建",
+                "value": "01193",
+                "key": "01193"
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "label": "兰州",
+                        "value": "02915",
+                        "key": "02915"
+                    },
+                    {
+                        "children": [],
+                        "label": "酒泉",
+                        "value": "02959",
+                        "key": "02959"
+                    },
+                    {
+                        "children": [],
+                        "label": "白银",
+                        "value": "02926",
+                        "key": "02926"
+                    },
+                    {
+                        "children": [],
+                        "label": "金昌",
+                        "value": "02924",
+                        "key": "02924"
+                    },
+                    {
+                        "children": [],
+                        "label": "庆阳",
+                        "value": "02967",
+                        "key": "02967"
+                    },
+                    {
+                        "children": [],
+                        "label": "武威",
+                        "value": "02939",
+                        "key": "02939"
+                    },
+                    {
+                        "children": [],
+                        "label": "平凉",
+                        "value": "02951",
+                        "key": "02951"
+                    },
+                    {
+                        "children": [],
+                        "label": "定西",
+                        "value": "02995",
+                        "key": "02995"
+                    },
+                    {
+                        "children": [],
+                        "label": "张掖",
+                        "value": "02944",
+                        "key": "02944"
+                    },
+                    {
+                        "children": [],
+                        "label": "嘉峪关",
+                        "value": "03003",
+                        "key": "03003"
+                    },
+                    {
+                        "children": [],
+                        "label": "陇南",
+                        "value": "03004",
+                        "key": "03004"
+                    },
+                    {
+                        "children": [],
+                        "label": "天水",
+                        "value": "02932",
+                        "key": "02932"
+                    },
+                    {
+                        "children": [],
+                        "label": "甘南",
+                        "value": "02976",
+                        "key": "02976"
+                    },
+                    {
+                        "children": [],
+                        "label": "临夏",
+                        "value": "02985",
+                        "key": "02985"
+                    }
+                ],
+                "label": "甘肃",
+                "value": "02914",
+                "key": "02914"
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "label": "广州",
+                        "value": "01978",
+                        "key": "01978"
+                    },
+                    {
+                        "children": [],
+                        "label": "汕头",
+                        "value": "02004",
+                        "key": "02004"
+                    },
+                    {
+                        "children": [],
+                        "label": "梅州",
+                        "value": "02036",
+                        "key": "02036"
+                    },
+                    {
+                        "children": [],
+                        "label": "深圳",
+                        "value": "01991",
+                        "key": "01991"
+                    },
+                    {
+                        "children": [],
+                        "label": "珠海",
+                        "value": "01998",
+                        "key": "01998"
+                    },
+                    {
+                        "children": [],
+                        "label": "河源",
+                        "value": "02029",
+                        "key": "02029"
+                    },
+                    {
+                        "children": [],
+                        "label": "潮州",
+                        "value": "02106",
+                        "key": "02106"
+                    },
+                    {
+                        "children": [],
+                        "label": "云浮",
+                        "value": "02116",
+                        "key": "02116"
+                    },
+                    {
+                        "children": [],
+                        "label": "江门",
+                        "value": "02052",
+                        "key": "02052"
+                    },
+                    {
+                        "children": [],
+                        "label": "中山",
+                        "value": "02051",
+                        "key": "02051"
+                    },
+                    {
+                        "children": [],
+                        "label": "东莞",
+                        "value": "02050",
+                        "key": "02050"
+                    },
+                    {
+                        "children": [],
+                        "label": "湛江",
+                        "value": "02071",
+                        "key": "02071"
+                    },
+                    {
+                        "children": [],
+                        "label": "佛山",
+                        "value": "02060",
+                        "key": "02060"
+                    },
+                    {
+                        "children": [],
+                        "label": "韶关",
+                        "value": "02012",
+                        "key": "02012"
+                    },
+                    {
+                        "children": [],
+                        "label": "汕尾",
+                        "value": "02045",
+                        "key": "02045"
+                    },
+                    {
+                        "children": [],
+                        "label": "惠州",
+                        "value": "02023",
+                        "key": "02023"
+                    },
+                    {
+                        "children": [],
+                        "label": "肇庆",
+                        "value": "02088",
+                        "key": "02088"
+                    },
+                    {
+                        "children": [],
+                        "label": "阳江",
+                        "value": "02066",
+                        "key": "02066"
+                    },
+                    {
+                        "children": [],
+                        "label": "揭阳",
+                        "value": "02110",
+                        "key": "02110"
+                    },
+                    {
+                        "children": [],
+                        "label": "清远",
+                        "value": "02097",
+                        "key": "02097"
+                    },
+                    {
+                        "children": [],
+                        "label": "茂名",
+                        "value": "02081",
+                        "key": "02081"
+                    }
+                ],
+                "label": "广东",
+                "value": "01977",
+                "key": "01977"
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "label": "贺州",
+                        "value": "02213",
+                        "key": "02213"
+                    },
+                    {
+                        "children": [],
+                        "label": "柳州",
+                        "value": "02136",
+                        "key": "02136"
+                    },
+                    {
+                        "children": [],
+                        "label": "桂林",
+                        "value": "02147",
+                        "key": "02147"
+                    },
+                    {
+                        "children": [],
+                        "label": "南宁",
+                        "value": "02123",
+                        "key": "02123"
+                    },
+                    {
+                        "children": [],
+                        "label": "百色",
+                        "value": "02200",
+                        "key": "02200"
+                    },
+                    {
+                        "children": [],
+                        "label": "河池",
+                        "value": "02218",
+                        "key": "02218"
+                    },
+                    {
+                        "children": [],
+                        "label": "崇左",
+                        "value": "02237",
+                        "key": "02237"
+                    },
+                    {
+                        "children": [],
+                        "label": "北海",
+                        "value": "02172",
+                        "key": "02172"
+                    },
+                    {
+                        "children": [],
+                        "label": "玉林",
+                        "value": "02193",
+                        "key": "02193"
+                    },
+                    {
+                        "children": [],
+                        "label": "钦州",
+                        "value": "02182",
+                        "key": "02182"
+                    },
+                    {
+                        "children": [],
+                        "label": "防城港",
+                        "value": "02177",
+                        "key": "02177"
+                    },
+                    {
+                        "children": [],
+                        "label": "贵港",
+                        "value": "02187",
+                        "key": "02187"
+                    },
+                    {
+                        "children": [],
+                        "label": "来宾",
+                        "value": "02230",
+                        "key": "02230"
+                    },
+                    {
+                        "children": [],
+                        "label": "梧州",
+                        "value": "02164",
+                        "key": "02164"
+                    }
+                ],
+                "label": "广西",
+                "value": "02122",
+                "key": "02122"
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "label": "遵义",
+                        "value": "02491",
+                        "key": "02491"
+                    },
+                    {
+                        "children": [],
+                        "label": "安顺",
+                        "value": "02506",
+                        "key": "02506"
+                    },
+                    {
+                        "children": [],
+                        "label": "黔西南",
+                        "value": "02533",
+                        "key": "02533"
+                    },
+                    {
+                        "children": [],
+                        "label": "黔东南",
+                        "value": "02542",
+                        "key": "02542"
+                    },
+                    {
+                        "children": [],
+                        "label": "贵阳",
+                        "value": "02475",
+                        "key": "02475"
+                    },
+                    {
+                        "children": [],
+                        "label": "六盘水",
+                        "value": "02486",
+                        "key": "02486"
+                    },
+                    {
+                        "children": [],
+                        "label": "黔南",
+                        "value": "02559",
+                        "key": "02559"
+                    },
+                    {
+                        "children": [],
+                        "label": "铜仁",
+                        "value": "02513",
+                        "key": "02513"
+                    },
+                    {
+                        "children": [],
+                        "label": "毕节",
+                        "value": "02524",
+                        "key": "02524"
+                    }
+                ],
+                "label": "贵州",
+                "value": "02474",
+                "key": "02474"
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "label": "东方",
+                        "value": "02258",
+                        "key": "02258"
+                    },
+                    {
+                        "children": [],
+                        "label": "琼中",
+                        "value": "02268",
+                        "key": "02268"
+                    },
+                    {
+                        "children": [],
+                        "label": "万宁",
+                        "value": "02257",
+                        "key": "02257"
+                    },
+                    {
+                        "children": [],
+                        "label": "海口",
+                        "value": "02246",
+                        "key": "02246"
+                    },
+                    {
+                        "children": [],
+                        "label": "保亭",
+                        "value": "02267",
+                        "key": "02267"
+                    },
+                    {
+                        "children": [],
+                        "label": "文昌",
+                        "value": "02256",
+                        "key": "02256"
+                    },
+                    {
+                        "children": [],
+                        "label": "陵水",
+                        "value": "02266",
+                        "key": "02266"
+                    },
+                    {
+                        "children": [],
+                        "label": "儋州",
+                        "value": "02255",
+                        "key": "02255"
+                    },
+                    {
+                        "children": [],
+                        "label": "定安",
+                        "value": "02259",
+                        "key": "02259"
+                    },
+                    {
+                        "children": [],
+                        "label": "澄迈",
+                        "value": "02261",
+                        "key": "02261"
+                    },
+                    {
+                        "children": [],
+                        "label": "屯昌",
+                        "value": "02260",
+                        "key": "02260"
+                    },
+                    {
+                        "children": [],
+                        "label": "乐东",
+                        "value": "02265",
+                        "key": "02265"
+                    },
+                    {
+                        "children": [],
+                        "label": "琼海",
+                        "value": "02254",
+                        "key": "02254"
+                    },
+                    {
+                        "children": [],
+                        "label": "昌江",
+                        "value": "02264",
+                        "key": "02264"
+                    },
+                    {
+                        "children": [],
+                        "label": "五指山",
+                        "value": "02253",
+                        "key": "02253"
+                    },
+                    {
+                        "children": [],
+                        "label": "白沙",
+                        "value": "02263",
+                        "key": "02263"
+                    },
+                    {
+                        "children": [],
+                        "label": "三沙",
+                        "value": "02252",
+                        "key": "02252"
+                    },
+                    {
+                        "children": [],
+                        "label": "临高",
+                        "value": "02262",
+                        "key": "02262"
+                    },
+                    {
+                        "children": [],
+                        "label": "三亚",
+                        "value": "02251",
+                        "key": "02251"
+                    }
+                ],
+                "label": "海南",
+                "value": "02245",
+                "key": "02245"
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "label": "张家口",
+                        "value": "00219",
+                        "key": "00219"
+                    },
+                    {
+                        "children": [],
+                        "label": "保定",
+                        "value": "00193",
+                        "key": "00193"
+                    },
+                    {
+                        "children": [],
+                        "label": "唐山",
+                        "value": "00130",
+                        "key": "00130"
+                    },
+                    {
+                        "children": [],
+                        "label": "邯郸",
+                        "value": "00153",
+                        "key": "00153"
+                    },
+                    {
+                        "children": [],
+                        "label": "邢台",
+                        "value": "00173",
+                        "key": "00173"
+                    },
+                    {
+                        "children": [],
+                        "label": "秦皇岛",
+                        "value": "00145",
+                        "key": "00145"
+                    },
+                    {
+                        "children": [],
+                        "label": "廊坊",
+                        "value": "00266",
+                        "key": "00266"
+                    },
+                    {
+                        "children": [],
+                        "label": "衡水",
+                        "value": "00277",
+                        "key": "00277"
+                    },
+                    {
+                        "children": [],
+                        "label": "涿州",
+                        "value": "120156145243",
+                        "key": "120156145243"
+                    },
+                    {
+                        "children": [],
+                        "label": "承德",
+                        "value": "00237",
+                        "key": "00237"
+                    },
+                    {
+                        "children": [],
+                        "label": "石家庄",
+                        "value": "00106",
+                        "key": "00106"
+                    },
+                    {
+                        "children": [],
+                        "label": "沧州",
+                        "value": "00249",
+                        "key": "00249"
+                    }
+                ],
+                "label": "河北",
+                "value": "00105",
+                "key": "00105"
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "label": "黑河",
+                        "value": "00836",
+                        "key": "00836"
+                    },
+                    {
+                        "children": [],
+                        "label": "哈尔滨",
+                        "value": "00715",
+                        "key": "00715"
+                    },
+                    {
+                        "children": [],
+                        "label": "齐齐哈尔",
+                        "value": "00735",
+                        "key": "00735"
+                    },
+                    {
+                        "children": [],
+                        "label": "大庆",
+                        "value": "00780",
+                        "key": "00780"
+                    },
+                    {
+                        "children": [],
+                        "label": "伊春",
+                        "value": "00790",
+                        "key": "00790"
+                    },
+                    {
+                        "children": [],
+                        "label": "双鸭山",
+                        "value": "00761",
+                        "key": "00761"
+                    },
+                    {
+                        "children": [],
+                        "label": "鸡西",
+                        "value": "00770",
+                        "key": "00770"
+                    },
+                    {
+                        "children": [],
+                        "label": "牡丹江",
+                        "value": "00808",
+                        "key": "00808"
+                    },
+                    {
+                        "children": [],
+                        "label": "佳木斯",
+                        "value": "00819",
+                        "key": "00819"
+                    },
+                    {
+                        "children": [],
+                        "label": "绥化",
+                        "value": "00843",
+                        "key": "00843"
+                    },
+                    {
+                        "children": [],
+                        "label": "大兴安岭",
+                        "value": "00854",
+                        "key": "00854"
+                    },
+                    {
+                        "children": [],
+                        "label": "七台河",
+                        "value": "00831",
+                        "key": "00831"
+                    },
+                    {
+                        "children": [],
+                        "label": "鹤岗",
+                        "value": "00752",
+                        "key": "00752"
+                    }
+                ],
+                "label": "黑龙江",
+                "value": "00714",
+                "key": "00714"
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "label": "新乡",
+                        "value": "01627",
+                        "key": "01627"
+                    },
+                    {
+                        "children": [],
+                        "label": "驻马店",
+                        "value": "01713",
+                        "key": "01713"
+                    },
+                    {
+                        "children": [],
+                        "label": "周口",
+                        "value": "01702",
+                        "key": "01702"
+                    },
+                    {
+                        "children": [],
+                        "label": "许昌",
+                        "value": "01647",
+                        "key": "01647"
+                    },
+                    {
+                        "children": [],
+                        "label": "济源",
+                        "value": "01724",
+                        "key": "01724"
+                    },
+                    {
+                        "children": [],
+                        "label": "焦作",
+                        "value": "01609",
+                        "key": "01609"
+                    },
+                    {
+                        "children": [],
+                        "label": "濮阳",
+                        "value": "01641",
+                        "key": "01641"
+                    },
+                    {
+                        "children": [],
+                        "label": "平顶山",
+                        "value": "01597",
+                        "key": "01597"
+                    },
+                    {
+                        "children": [],
+                        "label": "郑州",
+                        "value": "01557",
+                        "key": "01557"
+                    },
+                    {
+                        "children": [],
+                        "label": "南阳",
+                        "value": "01667",
+                        "key": "01667"
+                    },
+                    {
+                        "children": [],
+                        "label": "漯河",
+                        "value": "01654",
+                        "key": "01654"
+                    },
+                    {
+                        "children": [],
+                        "label": "鹤壁",
+                        "value": "01621",
+                        "key": "01621"
+                    },
+                    {
+                        "children": [],
+                        "label": "安阳",
+                        "value": "01632",
+                        "key": "01632"
+                    },
+                    {
+                        "children": [],
+                        "label": "三门峡",
+                        "value": "01660",
+                        "key": "01660"
+                    },
+                    {
+                        "children": [],
+                        "label": "商丘",
+                        "value": "01681",
+                        "key": "01681"
+                    },
+                    {
+                        "children": [],
+                        "label": "信阳",
+                        "value": "01691",
+                        "key": "01691"
+                    },
+                    {
+                        "children": [],
+                        "label": "开封",
+                        "value": "01570",
+                        "key": "01570"
+                    },
+                    {
+                        "children": [],
+                        "label": "洛阳",
+                        "value": "01581",
+                        "key": "01581"
+                    }
+                ],
+                "label": "河南",
+                "value": "01556",
+                "key": "01556"
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "label": "天门",
+                        "value": "01837",
+                        "key": "01837"
+                    },
+                    {
+                        "children": [],
+                        "label": "武汉",
+                        "value": "01726",
+                        "key": "01726"
+                    },
+                    {
+                        "children": [],
+                        "label": "仙桃",
+                        "value": "01836",
+                        "key": "01836"
+                    },
+                    {
+                        "children": [],
+                        "label": "随州",
+                        "value": "01824",
+                        "key": "01824"
+                    },
+                    {
+                        "children": [],
+                        "label": "襄阳",
+                        "value": "01746",
+                        "key": "01746"
+                    },
+                    {
+                        "children": [],
+                        "label": "咸宁",
+                        "value": "01817",
+                        "key": "01817"
+                    },
+                    {
+                        "children": [],
+                        "label": "神农架",
+                        "value": "01839",
+                        "key": "01839"
+                    },
+                    {
+                        "children": [],
+                        "label": "黄冈",
+                        "value": "01806",
+                        "key": "01806"
+                    },
+                    {
+                        "children": [],
+                        "label": "潜江",
+                        "value": "01838",
+                        "key": "01838"
+                    },
+                    {
+                        "children": [],
+                        "label": "恩施",
+                        "value": "01827",
+                        "key": "01827"
+                    },
+                    {
+                        "children": [],
+                        "label": "宜昌",
+                        "value": "01774",
+                        "key": "01774"
+                    },
+                    {
+                        "children": [],
+                        "label": "黄石",
+                        "value": "01740",
+                        "key": "01740"
+                    },
+                    {
+                        "children": [],
+                        "label": "鄂州",
+                        "value": "01794",
+                        "key": "01794"
+                    },
+                    {
+                        "children": [],
+                        "label": "十堰",
+                        "value": "01756",
+                        "key": "01756"
+                    },
+                    {
+                        "children": [],
+                        "label": "荆门",
+                        "value": "01788",
+                        "key": "01788"
+                    },
+                    {
+                        "children": [],
+                        "label": "孝感",
+                        "value": "01798",
+                        "key": "01798"
+                    },
+                    {
+                        "children": [],
+                        "label": "荆州",
+                        "value": "01765",
+                        "key": "01765"
+                    }
+                ],
+                "label": "湖北",
+                "value": "01725",
+                "key": "01725"
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "label": "郴州",
+                        "value": "01925",
+                        "key": "01925"
+                    },
+                    {
+                        "children": [],
+                        "label": "常德",
+                        "value": "01903",
+                        "key": "01903"
+                    },
+                    {
+                        "children": [],
+                        "label": "湘西",
+                        "value": "01968",
+                        "key": "01968"
+                    },
+                    {
+                        "children": [],
+                        "label": "张家界",
+                        "value": "01913",
+                        "key": "01913"
+                    },
+                    {
+                        "children": [],
+                        "label": "衡阳",
+                        "value": "01867",
+                        "key": "01867"
+                    },
+                    {
+                        "children": [],
+                        "label": "益阳",
+                        "value": "01918",
+                        "key": "01918"
+                    },
+                    {
+                        "children": [],
+                        "label": "怀化",
+                        "value": "01949",
+                        "key": "01949"
+                    },
+                    {
+                        "children": [],
+                        "label": "永州",
+                        "value": "01937",
+                        "key": "01937"
+                    },
+                    {
+                        "children": [],
+                        "label": "株洲",
+                        "value": "01851",
+                        "key": "01851"
+                    },
+                    {
+                        "children": [],
+                        "label": "湘潭",
+                        "value": "01861",
+                        "key": "01861"
+                    },
+                    {
+                        "children": [],
+                        "label": "岳阳",
+                        "value": "01893",
+                        "key": "01893"
+                    },
+                    {
+                        "children": [],
+                        "label": "娄底",
+                        "value": "01962",
+                        "key": "01962"
+                    },
+                    {
+                        "children": [],
+                        "label": "长沙",
+                        "value": "01841",
+                        "key": "01841"
+                    },
+                    {
+                        "children": [],
+                        "label": "邵阳",
+                        "value": "01880",
+                        "key": "01880"
+                    }
+                ],
+                "label": "湖南",
+                "value": "01840",
+                "key": "01840"
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "label": "泰州",
+                        "value": "00924",
+                        "key": "00924"
+                    },
+                    {
+                        "children": [],
+                        "label": "宿迁",
+                        "value": "00902",
+                        "key": "00902"
+                    },
+                    {
+                        "children": [],
+                        "label": "无锡",
+                        "value": "00954",
+                        "key": "00954"
+                    },
+                    {
+                        "children": [],
+                        "label": "扬州",
+                        "value": "00917",
+                        "key": "00917"
+                    },
+                    {
+                        "children": [],
+                        "label": "南京",
+                        "value": "00859",
+                        "key": "00859"
+                    },
+                    {
+                        "children": [],
+                        "label": "常州",
+                        "value": "00947",
+                        "key": "00947"
+                    },
+                    {
+                        "children": [],
+                        "label": "淮安",
+                        "value": "00893",
+                        "key": "00893"
+                    },
+                    {
+                        "children": [],
+                        "label": "盐城",
+                        "value": "00908",
+                        "key": "00908"
+                    },
+                    {
+                        "children": [],
+                        "label": "南通",
+                        "value": "00931",
+                        "key": "00931"
+                    },
+                    {
+                        "children": [],
+                        "label": "苏州",
+                        "value": "00962",
+                        "key": "00962"
+                    },
+                    {
+                        "children": [],
+                        "label": "镇江",
+                        "value": "00940",
+                        "key": "00940"
+                    },
+                    {
+                        "children": [],
+                        "label": "连云港",
+                        "value": "00885",
+                        "key": "00885"
+                    },
+                    {
+                        "children": [],
+                        "label": "徐州",
+                        "value": "00873",
+                        "key": "00873"
+                    }
+                ],
+                "label": "江苏",
+                "value": "00858",
+                "key": "00858"
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "label": "上饶",
+                        "value": "01380",
+                        "key": "01380"
+                    },
+                    {
+                        "children": [],
+                        "label": "新余",
+                        "value": "01317",
+                        "key": "01317"
+                    },
+                    {
+                        "children": [],
+                        "label": "景德镇",
+                        "value": "01393",
+                        "key": "01393"
+                    },
+                    {
+                        "children": [],
+                        "label": "南昌",
+                        "value": "01289",
+                        "key": "01289"
+                    },
+                    {
+                        "children": [],
+                        "label": "吉安",
+                        "value": "01343",
+                        "key": "01343"
+                    },
+                    {
+                        "children": [],
+                        "label": "萍乡",
+                        "value": "01298",
+                        "key": "01298"
+                    },
+                    {
+                        "children": [],
+                        "label": "鹰潭",
+                        "value": "01320",
+                        "key": "01320"
+                    },
+                    {
+                        "children": [],
+                        "label": "九江",
+                        "value": "01304",
+                        "key": "01304"
+                    },
+                    {
+                        "children": [],
+                        "label": "宜春",
+                        "value": "01357",
+                        "key": "01357"
+                    },
+                    {
+                        "children": [],
+                        "label": "赣州",
+                        "value": "01324",
+                        "key": "01324"
+                    },
+                    {
+                        "children": [],
+                        "label": "抚州",
+                        "value": "01368",
+                        "key": "01368"
+                    }
+                ],
+                "label": "江西",
+                "value": "01288",
+                "key": "01288"
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "label": "白城",
+                        "value": "00702",
+                        "key": "00702"
+                    },
+                    {
+                        "children": [],
+                        "label": "松原",
+                        "value": "00708",
+                        "key": "00708"
+                    },
+                    {
+                        "children": [],
+                        "label": "辽源",
+                        "value": "00673",
+                        "key": "00673"
+                    },
+                    {
+                        "children": [],
+                        "label": "延边",
+                        "value": "00693",
+                        "key": "00693"
+                    },
+                    {
+                        "children": [],
+                        "label": "通化",
+                        "value": "00678",
+                        "key": "00678"
+                    },
+                    {
+                        "children": [],
+                        "label": "长春",
+                        "value": "00645",
+                        "key": "00645"
+                    },
+                    {
+                        "children": [],
+                        "label": "吉林",
+                        "value": "00656",
+                        "key": "00656"
+                    },
+                    {
+                        "children": [],
+                        "label": "四平",
+                        "value": "00666",
+                        "key": "00666"
+                    },
+                    {
+                        "children": [],
+                        "label": "白山",
+                        "value": "00686",
+                        "key": "00686"
+                    }
+                ],
+                "label": "吉林",
+                "value": "00644",
+                "key": "00644"
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "label": "朝阳",
+                        "value": "00636",
+                        "key": "00636"
+                    },
+                    {
+                        "children": [],
+                        "label": "阜新",
+                        "value": "00613",
+                        "key": "00613"
+                    },
+                    {
+                        "children": [],
+                        "label": "盘锦",
+                        "value": "00608",
+                        "key": "00608"
+                    },
+                    {
+                        "children": [],
+                        "label": "铁岭",
+                        "value": "00629",
+                        "key": "00629"
+                    },
+                    {
+                        "children": [],
+                        "label": "锦州",
+                        "value": "00586",
+                        "key": "00586"
+                    },
+                    {
+                        "children": [],
+                        "label": "沈阳",
+                        "value": "00531",
+                        "key": "00531"
+                    },
+                    {
+                        "children": [],
+                        "label": "抚顺",
+                        "value": "00564",
+                        "key": "00564"
+                    },
+                    {
+                        "children": [],
+                        "label": "葫芦岛",
+                        "value": "00594",
+                        "key": "00594"
+                    },
+                    {
+                        "children": [],
+                        "label": "本溪",
+                        "value": "00572",
+                        "key": "00572"
+                    },
+                    {
+                        "children": [],
+                        "label": "营口",
+                        "value": "00601",
+                        "key": "00601"
+                    },
+                    {
+                        "children": [],
+                        "label": "丹东",
+                        "value": "00579",
+                        "key": "00579"
+                    },
+                    {
+                        "children": [],
+                        "label": "大连",
+                        "value": "00545",
+                        "key": "00545"
+                    },
+                    {
+                        "children": [],
+                        "label": "鞍山",
+                        "value": "00556",
+                        "key": "00556"
+                    },
+                    {
+                        "children": [],
+                        "label": "辽阳",
+                        "value": "00621",
+                        "key": "00621"
+                    }
+                ],
+                "label": "辽宁",
+                "value": "00530",
+                "key": "00530"
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "label": "包头",
+                        "value": "00429",
+                        "key": "00429"
+                    },
+                    {
+                        "children": [],
+                        "label": "乌海",
+                        "value": "00437",
+                        "key": "00437"
+                    },
+                    {
+                        "children": [],
+                        "label": "呼伦贝尔",
+                        "value": "00472",
+                        "key": "00472"
+                    },
+                    {
+                        "children": [],
+                        "label": "阿拉善盟",
+                        "value": "00519",
+                        "key": "00519"
+                    },
+                    {
+                        "children": [],
+                        "label": "通辽",
+                        "value": "00454",
+                        "key": "00454"
+                    },
+                    {
+                        "children": [],
+                        "label": "锡林郭勒盟",
+                        "value": "00498",
+                        "key": "00498"
+                    },
+                    {
+                        "children": [],
+                        "label": "乌兰察布盟",
+                        "value": "00486",
+                        "key": "00486"
+                    },
+                    {
+                        "children": [],
+                        "label": "呼和浩特",
+                        "value": "00420",
+                        "key": "00420"
+                    },
+                    {
+                        "children": [],
+                        "label": "鄂尔多斯",
+                        "value": "00463",
+                        "key": "00463"
+                    },
+                    {
+                        "children": [],
+                        "label": "赤峰",
+                        "value": "00440",
+                        "key": "00440"
+                    },
+                    {
+                        "children": [],
+                        "label": "兴安盟",
+                        "value": "00523",
+                        "key": "00523"
+                    },
+                    {
+                        "children": [],
+                        "label": "巴彦淖尔盟",
+                        "value": "00511",
+                        "key": "00511"
+                    }
+                ],
+                "label": "内蒙古",
+                "value": "00419",
+                "key": "00419"
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "label": "银川",
+                        "value": "03067",
+                        "key": "03067"
+                    },
+                    {
+                        "children": [],
+                        "label": "固原",
+                        "value": "03089",
+                        "key": "03089"
+                    },
+                    {
+                        "children": [],
+                        "label": "石嘴山",
+                        "value": "03074",
+                        "key": "03074"
+                    },
+                    {
+                        "children": [],
+                        "label": "中卫",
+                        "value": "03090",
+                        "key": "03090"
+                    },
+                    {
+                        "children": [],
+                        "label": "吴忠",
+                        "value": "03081",
+                        "key": "03081"
+                    }
+                ],
+                "label": "宁夏",
+                "value": "03066",
+                "key": "03066"
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "label": "海东",
+                        "value": "03023",
+                        "key": "03023"
+                    },
+                    {
+                        "children": [],
+                        "label": "黄南",
+                        "value": "03035",
+                        "key": "03035"
+                    },
+                    {
+                        "children": [],
+                        "label": "果洛",
+                        "value": "03046",
+                        "key": "03046"
+                    },
+                    {
+                        "children": [],
+                        "label": "海南自治州",
+                        "value": "03040",
+                        "key": "03040"
+                    },
+                    {
+                        "children": [],
+                        "label": "海北",
+                        "value": "03030",
+                        "key": "03030"
+                    },
+                    {
+                        "children": [],
+                        "label": "玉树",
+                        "value": "03053",
+                        "key": "03053"
+                    },
+                    {
+                        "children": [],
+                        "label": "海西",
+                        "value": "03060",
+                        "key": "03060"
+                    },
+                    {
+                        "children": [],
+                        "label": "西宁",
+                        "value": "03015",
+                        "key": "03015"
+                    }
+                ],
+                "label": "青海",
+                "value": "03014",
+                "key": "03014"
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "label": "聊城",
+                        "value": "01529",
+                        "key": "01529"
+                    },
+                    {
+                        "children": [],
+                        "label": "德州",
+                        "value": "01517",
+                        "key": "01517"
+                    },
+                    {
+                        "children": [],
+                        "label": "东营",
+                        "value": "01439",
+                        "key": "01439"
+                    },
+                    {
+                        "children": [],
+                        "label": "滨州",
+                        "value": "01538",
+                        "key": "01538"
+                    },
+                    {
+                        "children": [],
+                        "label": "临沂",
+                        "value": "01504",
+                        "key": "01504"
+                    },
+                    {
+                        "children": [],
+                        "label": "青岛",
+                        "value": "01410",
+                        "key": "01410"
+                    },
+                    {
+                        "children": [],
+                        "label": "枣庄",
+                        "value": "01432",
+                        "key": "01432"
+                    },
+                    {
+                        "children": [],
+                        "label": "济南",
+                        "value": "01399",
+                        "key": "01399"
+                    },
+                    {
+                        "children": [],
+                        "label": "济宁",
+                        "value": "01476",
+                        "key": "01476"
+                    },
+                    {
+                        "children": [],
+                        "label": "日照",
+                        "value": "01496",
+                        "key": "01496"
+                    },
+                    {
+                        "children": [],
+                        "label": "烟台",
+                        "value": "01458",
+                        "key": "01458"
+                    },
+                    {
+                        "children": [],
+                        "label": "菏泽",
+                        "value": "01546",
+                        "key": "01546"
+                    },
+                    {
+                        "children": [],
+                        "label": "莱芜",
+                        "value": "01501",
+                        "key": "01501"
+                    },
+                    {
+                        "children": [],
+                        "label": "泰安",
+                        "value": "01489",
+                        "key": "01489"
+                    },
+                    {
+                        "children": [],
+                        "label": "淄博",
+                        "value": "01423",
+                        "key": "01423"
+                    },
+                    {
+                        "children": [],
+                        "label": "潍坊",
+                        "value": "01445",
+                        "key": "01445"
+                    },
+                    {
+                        "children": [],
+                        "label": "威海",
+                        "value": "01471",
+                        "key": "01471"
+                    }
+                ],
+                "label": "山东",
+                "value": "01398",
+                "key": "01398"
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "label": "上海",
+                        "value": "00022",
+                        "key": "00022"
+                    }
+                ],
+                "label": "上海",
+                "value": "00021",
+                "key": "00021"
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "label": "铜川",
+                        "value": "02814",
+                        "key": "02814"
+                    },
+                    {
+                        "children": [],
+                        "label": "延安",
+                        "value": "02857",
+                        "key": "02857"
+                    },
+                    {
+                        "children": [],
+                        "label": "商洛",
+                        "value": "02905",
+                        "key": "02905"
+                    },
+                    {
+                        "children": [],
+                        "label": "宝鸡",
+                        "value": "02817",
+                        "key": "02817"
+                    },
+                    {
+                        "children": [],
+                        "label": "咸阳",
+                        "value": "02830",
+                        "key": "02830"
+                    },
+                    {
+                        "children": [],
+                        "label": "榆林",
+                        "value": "02883",
+                        "key": "02883"
+                    },
+                    {
+                        "children": [],
+                        "label": "安康",
+                        "value": "02894",
+                        "key": "02894"
+                    },
+                    {
+                        "children": [],
+                        "label": "汉中",
+                        "value": "02871",
+                        "key": "02871"
+                    },
+                    {
+                        "children": [],
+                        "label": "渭南",
+                        "value": "02845",
+                        "key": "02845"
+                    },
+                    {
+                        "children": [],
+                        "label": "西安",
+                        "value": "02800",
+                        "key": "02800"
+                    }
+                ],
+                "label": "陕西",
+                "value": "02799",
+                "key": "02799"
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "label": "长治",
+                        "value": "00319",
+                        "key": "00319"
+                    },
+                    {
+                        "children": [],
+                        "label": "吕梁",
+                        "value": "00405",
+                        "key": "00405"
+                    },
+                    {
+                        "children": [],
+                        "label": "太原",
+                        "value": "00290",
+                        "key": "00290"
+                    },
+                    {
+                        "children": [],
+                        "label": "忻州",
+                        "value": "00373",
+                        "key": "00373"
+                    },
+                    {
+                        "children": [],
+                        "label": "朔州",
+                        "value": "00340",
+                        "key": "00340"
+                    },
+                    {
+                        "children": [],
+                        "label": "临汾",
+                        "value": "00388",
+                        "key": "00388"
+                    },
+                    {
+                        "children": [],
+                        "label": "晋城",
+                        "value": "00333",
+                        "key": "00333"
+                    },
+                    {
+                        "children": [],
+                        "label": "运城",
+                        "value": "00359",
+                        "key": "00359"
+                    },
+                    {
+                        "children": [],
+                        "label": "晋中",
+                        "value": "00347",
+                        "key": "00347"
+                    },
+                    {
+                        "children": [],
+                        "label": "大同",
+                        "value": "00301",
+                        "key": "00301"
+                    },
+                    {
+                        "children": [],
+                        "label": "阳泉",
+                        "value": "00313",
+                        "key": "00313"
+                    }
+                ],
+                "label": "山西",
+                "value": "00289",
+                "key": "00289"
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "label": "资阳",
+                        "value": "02418",
+                        "key": "02418"
+                    },
+                    {
+                        "children": [],
+                        "label": "阿坝",
+                        "value": "02423",
+                        "key": "02423"
+                    },
+                    {
+                        "children": [],
+                        "label": "甘孜",
+                        "value": "02455",
+                        "key": "02455"
+                    },
+                    {
+                        "children": [],
+                        "label": "达州",
+                        "value": "02389",
+                        "key": "02389"
+                    },
+                    {
+                        "children": [],
+                        "label": "内江",
+                        "value": "02344",
+                        "key": "02344"
+                    },
+                    {
+                        "children": [],
+                        "label": "攀枝花",
+                        "value": "02300",
+                        "key": "02300"
+                    },
+                    {
+                        "children": [],
+                        "label": "绵阳",
+                        "value": "02321",
+                        "key": "02321"
+                    },
+                    {
+                        "children": [],
+                        "label": "泸州",
+                        "value": "02306",
+                        "key": "02306"
+                    },
+                    {
+                        "children": [],
+                        "label": "遂宁",
+                        "value": "02338",
+                        "key": "02338"
+                    },
+                    {
+                        "children": [],
+                        "label": "雅安",
+                        "value": "02404",
+                        "key": "02404"
+                    },
+                    {
+                        "children": [],
+                        "label": "凉山",
+                        "value": "02437",
+                        "key": "02437"
+                    },
+                    {
+                        "children": [],
+                        "label": "德阳",
+                        "value": "02314",
+                        "key": "02314"
+                    },
+                    {
+                        "children": [],
+                        "label": "巴中",
+                        "value": "02413",
+                        "key": "02413"
+                    },
+                    {
+                        "children": [],
+                        "label": "自贡",
+                        "value": "02293",
+                        "key": "02293"
+                    },
+                    {
+                        "children": [],
+                        "label": "眉山",
+                        "value": "02397",
+                        "key": "02397"
+                    },
+                    {
+                        "children": [],
+                        "label": "广元",
+                        "value": "02330",
+                        "key": "02330"
+                    },
+                    {
+                        "children": [],
+                        "label": "南充",
+                        "value": "02362",
+                        "key": "02362"
+                    },
+                    {
+                        "children": [],
+                        "label": "宜宾",
+                        "value": "02372",
+                        "key": "02372"
+                    },
+                    {
+                        "children": [],
+                        "label": "广安",
+                        "value": "02383",
+                        "key": "02383"
+                    },
+                    {
+                        "children": [],
+                        "label": "乐山",
+                        "value": "02350",
+                        "key": "02350"
+                    },
+                    {
+                        "children": [],
+                        "label": "成都",
+                        "value": "02273",
+                        "key": "02273"
+                    }
+                ],
+                "label": "四川",
+                "value": "02272",
+                "key": "02272"
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "label": "天津",
+                        "value": "00044",
+                        "key": "00044"
+                    }
+                ],
+                "label": "天津",
+                "value": "00043",
+                "key": "00043"
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "label": "五家渠",
+                        "value": "03205",
+                        "key": "03205"
+                    },
+                    {
+                        "children": [],
+                        "label": "吐鲁番",
+                        "value": "03108",
+                        "key": "03108"
+                    },
+                    {
+                        "children": [],
+                        "label": "克拉玛依",
+                        "value": "03103",
+                        "key": "03103"
+                    },
+                    {
+                        "children": [],
+                        "label": "克孜勒苏",
+                        "value": "03147",
+                        "key": "03147"
+                    },
+                    {
+                        "children": [],
+                        "label": "石河子",
+                        "value": "03202",
+                        "key": "03202"
+                    },
+                    {
+                        "children": [],
+                        "label": "阿克苏",
+                        "value": "03125",
+                        "key": "03125"
+                    },
+                    {
+                        "children": [],
+                        "label": "阿拉尔",
+                        "value": "03203",
+                        "key": "03203"
+                    },
+                    {
+                        "children": [],
+                        "label": "图木舒克",
+                        "value": "03204",
+                        "key": "03204"
+                    },
+                    {
+                        "children": [],
+                        "label": "和田",
+                        "value": "03116",
+                        "key": "03116"
+                    },
+                    {
+                        "children": [],
+                        "label": "伊犁哈萨克",
+                        "value": "03175",
+                        "key": "03175"
+                    },
+                    {
+                        "children": [],
+                        "label": "塔城",
+                        "value": "03186",
+                        "key": "03186"
+                    },
+                    {
+                        "children": [],
+                        "label": "哈密",
+                        "value": "03112",
+                        "key": "03112"
+                    },
+                    {
+                        "children": [],
+                        "label": "喀什",
+                        "value": "03134",
+                        "key": "03134"
+                    },
+                    {
+                        "children": [],
+                        "label": "昆玉市",
+                        "value": "659009",
+                        "key": "659009"
+                    },
+                    {
+                        "children": [],
+                        "label": "博尔塔拉",
+                        "value": "03171",
+                        "key": "03171"
+                    },
+                    {
+                        "children": [],
+                        "label": "可克达拉市",
+                        "value": "659008",
+                        "key": "659008"
+                    },
+                    {
+                        "children": [],
+                        "label": "阿勒泰",
+                        "value": "03194",
+                        "key": "03194"
+                    },
+                    {
+                        "children": [],
+                        "label": "双河市",
+                        "value": "659007",
+                        "key": "659007"
+                    },
+                    {
+                        "children": [],
+                        "label": "乌鲁木齐",
+                        "value": "03096",
+                        "key": "03096"
+                    },
+                    {
+                        "children": [],
+                        "label": "昌吉",
+                        "value": "03162",
+                        "key": "03162"
+                    },
+                    {
+                        "children": [],
+                        "label": "巴音郭楞",
+                        "value": "03152",
+                        "key": "03152"
+                    }
+                ],
+                "label": "新疆",
+                "value": "03095",
+                "key": "03095"
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "label": "那曲",
+                        "value": "02728",
+                        "key": "02728"
+                    },
+                    {
+                        "children": [],
+                        "label": "昌都",
+                        "value": "02739",
+                        "key": "02739"
+                    },
+                    {
+                        "children": [],
+                        "label": "林芝",
+                        "value": "02791",
+                        "key": "02791"
+                    },
+                    {
+                        "children": [],
+                        "label": "拉萨",
+                        "value": "02719",
+                        "key": "02719"
+                    },
+                    {
+                        "children": [],
+                        "label": "日喀则",
+                        "value": "02764",
+                        "key": "02764"
+                    },
+                    {
+                        "children": [],
+                        "label": "山南",
+                        "value": "02751",
+                        "key": "02751"
+                    },
+                    {
+                        "children": [],
+                        "label": "阿里",
+                        "value": "02783",
+                        "key": "02783"
+                    }
+                ],
+                "label": "西藏",
+                "value": "02718",
+                "key": "02718"
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "label": "临沧",
+                        "value": "02637",
+                        "key": "02637"
+                    },
+                    {
+                        "children": [],
+                        "label": "文山",
+                        "value": "02703",
+                        "key": "02703"
+                    },
+                    {
+                        "children": [],
+                        "label": "思茅",
+                        "value": "02626",
+                        "key": "02626"
+                    },
+                    {
+                        "children": [],
+                        "label": "保山",
+                        "value": "02608",
+                        "key": "02608"
+                    },
+                    {
+                        "children": [],
+                        "label": "曲靖",
+                        "value": "02588",
+                        "key": "02588"
+                    },
+                    {
+                        "children": [],
+                        "label": "普洱",
+                        "value": "02675",
+                        "key": "02675"
+                    },
+                    {
+                        "children": [],
+                        "label": "玉溪",
+                        "value": "02598",
+                        "key": "02598"
+                    },
+                    {
+                        "children": [],
+                        "label": "红河",
+                        "value": "02652",
+                        "key": "02652"
+                    },
+                    {
+                        "children": [],
+                        "label": "昭通",
+                        "value": "02614",
+                        "key": "02614"
+                    },
+                    {
+                        "children": [],
+                        "label": "丽江",
+                        "value": "02646",
+                        "key": "02646"
+                    },
+                    {
+                        "children": [],
+                        "label": "德宏",
+                        "value": "02712",
+                        "key": "02712"
+                    },
+                    {
+                        "children": [],
+                        "label": "迪庆",
+                        "value": "02700",
+                        "key": "02700"
+                    },
+                    {
+                        "children": [],
+                        "label": "西双版纳",
+                        "value": "02666",
+                        "key": "02666"
+                    },
+                    {
+                        "children": [],
+                        "label": "怒江",
+                        "value": "02694",
+                        "key": "02694"
+                    },
+                    {
+                        "children": [],
+                        "label": "昆明",
+                        "value": "02573",
+                        "key": "02573"
+                    },
+                    {
+                        "children": [],
+                        "label": "大理",
+                        "value": "02681",
+                        "key": "02681"
+                    },
+                    {
+                        "children": [],
+                        "label": "楚雄",
+                        "value": "02670",
+                        "key": "02670"
+                    }
+                ],
+                "label": "云南",
+                "value": "02572",
+                "key": "02572"
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "label": "宁波",
+                        "value": "00989",
+                        "key": "00989"
+                    },
+                    {
+                        "children": [],
+                        "label": "舟山",
+                        "value": "01050",
+                        "key": "01050"
+                    },
+                    {
+                        "children": [],
+                        "label": "台州",
+                        "value": "01055",
+                        "key": "01055"
+                    },
+                    {
+                        "children": [],
+                        "label": "金华",
+                        "value": "01033",
+                        "key": "01033"
+                    },
+                    {
+                        "children": [],
+                        "label": "衢州",
+                        "value": "01043",
+                        "key": "01043"
+                    },
+                    {
+                        "children": [],
+                        "label": "丽水",
+                        "value": "01065",
+                        "key": "01065"
+                    },
+                    {
+                        "children": [],
+                        "label": "湖州",
+                        "value": "01020",
+                        "key": "01020"
+                    },
+                    {
+                        "children": [],
+                        "label": "绍兴",
+                        "value": "01026",
+                        "key": "01026"
+                    },
+                    {
+                        "children": [],
+                        "label": "嘉兴",
+                        "value": "01013",
+                        "key": "01013"
+                    },
+                    {
+                        "children": [],
+                        "label": "温州",
+                        "value": "01001",
+                        "key": "01001"
+                    },
+                    {
+                        "children": [],
+                        "label": "杭州",
+                        "value": "00975",
+                        "key": "00975"
+                    }
+                ],
+                "label": "浙江",
+                "value": "00974",
+                "key": "00974"
+            }
+        ],
+        "labelList": [
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "code": "scan_pass_cn",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "扫码通过量",
+                        "reactType": "range",
+                        "valueType": "number"
+                    },
+                    {
+                        "children": [],
+                        "code": "scan2deal",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "扫码通过转化率",
+                        "reactType": "",
+                        "valueType": "rate"
+                    }
+                ],
+                "code": "EMPLOYEE_TGC_SCAN",
+                "mapDetails": {},
+                "mapEnum": {},
+                "name": "弹个车扫码",
+                "reactType": "",
+                "valueType": ""
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "code": "purcharse_new_cn",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "集采新车历史累计销量",
+                        "reactType": "range",
+                        "valueType": "number"
+                    },
+                    {
+                        "children": [],
+                        "code": "tool_new_cn",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "工具化新车历史累计销量",
+                        "reactType": "range",
+                        "valueType": "number"
+                    },
+                    {
+                        "children": [],
+                        "code": "tool_second_cn",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "工具化二手车历史累计销量",
+                        "reactType": "range",
+                        "valueType": "number"
+                    },
+                    {
+                        "children": [],
+                        "code": "self_second_cn",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "官方二手车历史累计销量",
+                        "reactType": "range",
+                        "valueType": "number"
+                    },
+                    {
+                        "children": [],
+                        "code": "cancel_cn",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "累计退单数",
+                        "reactType": "range",
+                        "valueType": "number"
+                    }
+                ],
+                "code": "EMPLOYEE_TGC_DEAL",
+                "mapDetails": {},
+                "mapEnum": {},
+                "name": "弹个车成交",
+                "reactType": "",
+                "valueType": ""
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "code": "user_id",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "用户ID",
+                        "reactType": "",
+                        "valueType": "string"
+                    },
+                    {
+                        "children": [],
+                        "code": "real_name",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "姓名",
+                        "reactType": "",
+                        "valueType": "string"
+                    },
+                    {
+                        "children": [],
+                        "code": "phone",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "手机号",
+                        "reactType": "",
+                        "valueType": "string"
+                    },
+                    {
+                        "children": [],
+                        "code": "sex",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "性别",
+                        "reactType": "",
+                        "valueType": "string"
+                    }
+                ],
+                "code": "EMPLOYEE_PERSONAL",
+                "mapDetails": {},
+                "mapEnum": {},
+                "name": "人口属性",
+                "reactType": "",
+                "valueType": ""
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "code": "shop_code",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "店铺CODE",
+                        "reactType": "",
+                        "valueType": "string"
+                    },
+                    {
+                        "children": [],
+                        "code": "department_name",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "部门",
+                        "reactType": "",
+                        "valueType": "string"
+                    },
+                    {
+                        "children": [],
+                        "code": "position_name",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "职位",
+                        "reactType": "",
+                        "valueType": "string"
+                    },
+                    {
+                        "children": [],
+                        "code": "create_duration",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "创建账号时长",
+                        "reactType": "range",
+                        "valueType": "number"
+                    }
+                ],
+                "code": "EMPLOYEE_WORK",
+                "mapDetails": {},
+                "mapEnum": {},
+                "name": "职业属性",
+                "reactType": "",
+                "valueType": ""
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "code": "customer_cn",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "弹个车客户总数",
+                        "reactType": "range",
+                        "valueType": "number"
+                    },
+                    {
+                        "children": [],
+                        "code": "clue_conversion_rate",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "线上线索成交转化率",
+                        "reactType": "",
+                        "valueType": "rate"
+                    },
+                    {
+                        "children": [],
+                        "code": "follow_rate_5",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "近7天线上线索5分钟跟进率",
+                        "reactType": "",
+                        "valueType": "rate"
+                    },
+                    {
+                        "children": [],
+                        "code": "follow_rate_120",
+                        "mapDetails": {},
+                        "mapEnum": {},
+                        "name": "近7天线上线索2小时跟进率",
+                        "reactType": "",
+                        "valueType": "rate"
+                    },
+                    {
+                        "children": [],
+                        "code": "follow_5_standard",
+                        "mapDetails": {},
+                        "mapEnum": {
+                            "0": "否",
+                            "1": "是"
+                        },
+                        "name": "近7日5分钟跟进率是否达标",
+                        "reactType": "",
+                        "valueType": "enum"
+                    },
+                    {
+                        "children": [],
+                        "code": "follow_120_standard",
+                        "mapDetails": {},
+                        "mapEnum": {
+                            "0": "否",
+                            "1": "是"
+                        },
+                        "name": "近7日2小时跟进率是否达标",
+                        "reactType": "",
+                        "valueType": "enum"
+                    }
+                ],
+                "code": "EMPLOYEE_TGC_CLUE",
+                "mapDetails": {},
+                "mapEnum": {},
+                "name": "弹个车线索",
+                "reactType": "",
+                "valueType": ""
+            }
+        ],
+        "curPickedTag": {
+            "code": "customer_drainage_score",
+            "children": [],
+            "mapEnum": {},
+            "valueType": "number",
+            "name": "C端引流权重",
+            "targetLabel": [
+                "",
+                ""
+            ],
+            "topLevelTagName": "工具化二手车",
+            "mapDetails": {},
+            "reactType": "range"
+        },
+        "securityTokenInc": "91528957140685132",
+        "iid": "1493422",
+        "_isModalVisibled": false,
+        "query": [],
+        "domain": "channel_employee",
+        "trackHost": "http://datacenter-log-center.dasouche-inc.net"
+    },
+    "msg": "success",
+    "success": true,
+    "traceId": "3TqqYh"
+}
+
+
+
+[[{"extend_val":"","target_val":["01075","00001"],"valueType":"area_province","targetLabel":["安徽","北京"],"label_name":"省份","reactType":"transfer","operator":"in","label_code":"province_code","target":["01075","00001"]}]]

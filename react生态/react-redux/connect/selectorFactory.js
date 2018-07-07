@@ -16,7 +16,6 @@ export function impureFinalPropsSelectorFactory(
 }
 
 
-
 export function pureFinalPropsSelectorFactory(
     mapStateToProps,
     mapDispatchToProps,
@@ -31,6 +30,7 @@ export function pureFinalPropsSelectorFactory(
     let dispatchProps
     let mergedProps
 
+    // 处理第一次调用
     function handleFirstCall(firstState, firstOwnProps) {
         state = firstState
         ownProps = firstOwnProps
@@ -51,7 +51,7 @@ export function pureFinalPropsSelectorFactory(
         return mergedProps
     }
 
-    function handleNewProps() {
+    function handleNewProps() {    // 如果mapStateToProps传入了ownProps，则，props 改变时，mapStateToProps也会执行
         if (mapStateToProps.dependsOnOwnProps)
             stateProps = mapStateToProps(state, ownProps)
 

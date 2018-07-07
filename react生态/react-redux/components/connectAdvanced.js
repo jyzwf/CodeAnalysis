@@ -14,8 +14,10 @@ function makeSelectorStateful(sourceSelector, store) {
     const selector = {
         run: function runComponentSelector(props) {
             try {
+                // 根据store和props来计算出下一次的props
                 const nextProps = sourceSelector(store.getState(), props)
 
+                // 如果计算出来的props和之前保存的不一样，或者报错
                 if (nextProps !== selector.props || selector.error) {
                     selector.shouldComponentUpdate = true
                     selector.props = nextProps
@@ -104,7 +106,7 @@ export default function connectAdvanced(
                 this.state = {}
                 this.renderCount = 0
                 this.store = props[storeKey] || context[storeKey]
-                this.propsMode = Boolean(props[storeKey])
+                this.propsMode = Boolean(props[storeKey])       // 获取store的模式
                 this.setWrappedInstance = this.setWrappedInstance.bind(this)
 
                 invariant(this.store,
@@ -132,10 +134,12 @@ export default function connectAdvanced(
             }
 
             componentWillReceiveProps(nextProps) {
+                // 这里会触发 重新比较
                 this.selector.run(nextProps)
             }
 
             shouldComponentUpdate() {
+                // 这里触发重渲染
                 return this.selector.shouldComponentUpdate
             }
 
@@ -161,7 +165,9 @@ export default function connectAdvanced(
             }
 
             initSelector() {
+                // 第一级：先传入dispatch和一些配置选项
                 const sourceSelector = selectorFactory(this.store.dispatch, selectorFactoryOptions)
+
                 this.selector = makeSelectorStateful(sourceSelector, this.store)
                 this.selector.run(this.props)
             }
@@ -197,6 +203,7 @@ export default function connectAdvanced(
 
             addExtraProps(props) {
                 // this.propsMode && this.subscription 两者为何放在一起判断
+                // 为何这么判断？
                 if (!withRef && !renderCountProp && !(this.propsMode && this.subscription)) return props
 
                 // 保持引用，防止被垃圾回收机制回收

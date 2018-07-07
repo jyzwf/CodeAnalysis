@@ -31,11 +31,12 @@ export function wrapMapToPropsFunc(mapToProps, methodName) {
         proxy.dependsOnOwnProps = true
 
         proxy.mapToProps = function detectFactoryAndVerify(stateOrDispatch, ownProps) {
-            proxy.mapToProps = mapToProps
-            proxy.dependsOnOwnProps = getDependsOnOwnProps(mapToProps)
-            let props = proxy(stateOrDispatch, ownProps)
+            proxy.mapToProps = mapToProps   // 第一次调用时，将 mapToProps 修改为 mapStateToProps、mapDispatchToProps、mergeProps
+            // mapStateToProps(state, [ownProps]) ：是否引入 ownProps，见：http://cn.redux.js.org/docs/react-redux/api.html
+            proxy.dependsOnOwnProps = getDependsOnOwnProps(mapToProps)      // 是否依赖
+            let props = proxy(stateOrDispatch, ownProps)    // 根据是否传入 ownProps 再次执行 mapToProps  -> 666666666666
 
-            if (typeof props === 'function') {
+            if (typeof props === 'function') {  // 结果是函数，就继续将该函数作为 mapToProps执行，
                 proxy.mapToProps = props
                 proxy.dependsOnOwnProps = getDependsOnOwnProps(props)
                 props = proxy(stateOrDispatch, ownProps)

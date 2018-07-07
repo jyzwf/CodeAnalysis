@@ -6,6 +6,7 @@ import defaultMergePropsFactories from './mergeProps'
 import defaultSelectorFactory from './selectorFactory'
 
 
+// 先验证各个传入的函数的规范性，并可以做到相对于 `节流` 的效果
 function match(arg, factories, name) {
     for (let i = factories.length - 1; i >= 0; i--) {
         const result = factories[i](arg)
@@ -41,11 +42,20 @@ export function createConnect({
             ...extraOptions = {}
         }
     ) {
+        // 先验证传入参数的规范性
         const initMapStateToProps = match(mapStateToProps, mapStateToPropsFactories, 'mapStateToProps')
         const initMapDispatchToProps = match(mapDispatchToProps, mapDispatchToPropsFactories, 'mapDispatchToProps')
         const initMergeProps = match(mergeProps, mergePropsFactories, 'mergeProps')
 
-        return connectHOC(
+        // connect(
+        //     mapStateToProps,
+        //     mapDispatchToProps,
+        //     mergeProps,
+        //     opts
+        // )()
+
+
+        return connectHOC(      // 返回 function wrapWithConnect(WrappedComponent){}
             selectorFactory,
             {
                 methodName: 'connect',

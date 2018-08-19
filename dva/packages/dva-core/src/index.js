@@ -161,16 +161,16 @@ export function create(hooksAndOpts = {}, createOpts = {}) {
     for (const m of app._models) {
 
       // 以该 model为例
-      {
-        namespace: 'products',
-        state: [],
-        reducers: {
-            'delete'(state, { payload: id }) {
-                return state.filter(item => item.id !== id)
-            },
-           'add'(){}
-        }
-      }
+      // {
+      //   namespace: 'products',
+      //   state: [],
+      //   reducers: {
+      //       'delete'(state, { payload: id }) {
+      //           return state.filter(item => item.id !== id)
+      //       },
+      //      'add'(){}
+      //   }
+      // }
 
       // reducers.products =  (state = defaultState, action) => reducer(state, action)
       // 每一个model里的reduce是对应到最终的reducer的一个

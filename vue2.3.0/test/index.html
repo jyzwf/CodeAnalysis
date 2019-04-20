@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        var a = function () {
+            console.log('a')
+        }
+
+        var b = function () {
+            // setTimeout(() => {
+            console.log('b')
+            // }, 0)
+            // console.log('b')
+        }
+
+        var c = function () {
+            console.log('c')
+        }
+        var t = true
+        with (this) {
+            a([t ? b() : c()])
+        }    
+    </script>
+</body>
+
+</html>

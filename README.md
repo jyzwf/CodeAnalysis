@@ -10,3 +10,5 @@
 [我看Vuex(二) ](https://github.com/jyzwf/blog/issues/48)  
 
 [我看Vuex(三) ](https://github.com/jyzwf/blog/issues/47)  
+
+[聊一聊vue-router](https://github.com/jyzwf/blog/issues/73)  
